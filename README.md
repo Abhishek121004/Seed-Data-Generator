@@ -342,6 +342,4 @@ GitHub: **https://github.com/Abhishek121004**
 
 <div align="center">
 
-### ⭐ If you found this project useful, consider starring the repository!
-
 </div>

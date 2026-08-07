@@ -1,0 +1,82 @@
+[
+  {
+    "email": "user0.9935@example.test",
+    "full_name": "Jagrati Padmanabhan",
+    "id": 1,
+    "phone": "+916960013389",
+    "role_id": 1,
+    "status": "active"
+  },
+  {
+    "email": "user1.9928@example.test",
+    "full_name": "Caleb Sharaf",
+    "id": 2,
+    "phone": "+919379402654",
+    "role_id": 2,
+    "status": "active"
+  },
+  {
+    "email": "user2.6514@example.test",
+    "full_name": "Kritika Brar",
+    "id": 3,
+    "phone": "+916161559407",
+    "role_id": 1,
+    "status": "inactive"
+  },
+  {
+    "email": "user3.7201@example.test",
+    "full_name": "Janaki Handa",
+    "id": 4,
+    "phone": "+916849593103",
+    "role_id": 3,
+    "status": "inactive"
+  },
+  {
+    "email": "user4.4814@example.test",
+    "full_name": "Chakradev Kari",
+    "id": 5,
+    "phone": "+916647525534",
+    "role_id": 1,
+    "status": "active"
+  },
+  {
+    "email": "user5.3803@example.test",
+    "full_name": "Fariq Kaul",
+    "id": 6,
+    "phone": "+917276483503",
+    "role_id": 1,
+    "status": "pending"
+  },
+  {
+    "email": "user6.7572@example.test",
+    "full_name": "Lajita Mall",
+    "id": 7,
+    "phone": "+918139537672",
+    "role_id": 3,
+    "status": "active"
+  },
+  {
+    "email": "user7.9830@example.test",
+    "full_name": "Janya Gaba",
+    "id": 8,
+    "phone": "+918969653287",
+    "role_id": 1,
+    "status": "pending"
+  },
+  {
+    "email": "user8.2796@example.test",
+    "full_name": "Isha Kadakia",
+    "id": 9,
+    "phone": "+917269166978",
+    "role_id": 3,
+    "status": "inactive"
+  },
+  {
+    "email": "user9.1188@example.test",
+    "full_name": "Ekbal Garg",
+    "id": 10,
+    "phone": "+916845146270",
+    "role_id": 3,
+    "status": "inactive"
+  }
+]

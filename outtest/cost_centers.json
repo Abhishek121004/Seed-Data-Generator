@@ -1,0 +1,26 @@
+[
+  {
+    "billing_address_id": 1,
+    "client_id": 1,
+    "code": "CC-0001",
+    "id": 1,
+    "primary_contact_id": 9,
+    "project_id": 1
+  },
+  {
+    "billing_address_id": 2,
+    "client_id": 1,
+    "code": "CC-0002",
+    "id": 2,
+    "primary_contact_id": null,
+    "project_id": 2
+  },
+  {
+    "billing_address_id": 3,
+    "client_id": 1,
+    "code": "CC-0003",
+    "id": 3,
+    "primary_contact_id": null,
+    "project_id": 3
+  }
+]

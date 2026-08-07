@@ -1,0 +1,112 @@
+[
+  {
+    "end_time": "2026-06-10T23:00:00+05:30",
+    "engineer_id": 2,
+    "id": 1,
+    "outcome": "completed",
+    "schedule_id": 1,
+    "start_time": "2026-06-10T22:00:00+05:30",
+    "ticket_id": 1,
+    "vendor_company_id": 1,
+    "visit_number": 1
+  },
+  {
+    "end_time": "2026-06-30T20:00:00+05:30",
+    "engineer_id": 6,
+    "id": 2,
+    "outcome": "completed",
+    "schedule_id": 2,
+    "start_time": "2026-06-30T18:00:00+05:30",
+    "ticket_id": 2,
+    "vendor_company_id": 2,
+    "visit_number": 1
+  },
+  {
+    "end_time": "2026-07-01T18:00:00+05:30",
+    "engineer_id": 7,
+    "id": 3,
+    "outcome": "cancelled",
+    "schedule_id": 2,
+    "start_time": "2026-07-01T17:00:00+05:30",
+    "ticket_id": 2,
+    "vendor_company_id": 2,
+    "visit_number": 2
+  },
+  {
+    "end_time": "2026-06-11T10:00:00+05:30",
+    "engineer_id": 4,
+    "id": 4,
+    "outcome": "completed",
+    "schedule_id": 3,
+    "start_time": "2026-06-11T07:00:00+05:30",
+    "ticket_id": 3,
+    "vendor_company_id": 1,
+    "visit_number": 1
+  },
+  {
+    "end_time": "2026-06-12T08:00:00+05:30",
+    "engineer_id": 3,
+    "id": 5,
+    "outcome": "completed",
+    "schedule_id": 3,
+    "start_time": "2026-06-12T05:00:00+05:30",
+    "ticket_id": 3,
+    "vendor_company_id": 1,
+    "visit_number": 2
+  },
+  {
+    "end_time": "2026-06-13T10:00:00+05:30",
+    "engineer_id": 4,
+    "id": 6,
+    "outcome": "completed",
+    "schedule_id": 3,
+    "start_time": "2026-06-13T07:00:00+05:30",
+    "ticket_id": 3,
+    "vendor_company_id": 1,
+    "visit_number": 3
+  },
+  {
+    "end_time": "2026-07-15T19:00:00+05:30",
+    "engineer_id": 8,
+    "id": 7,
+    "outcome": "completed",
+    "schedule_id": 4,
+    "start_time": "2026-07-15T17:00:00+05:30",
+    "ticket_id": 4,
+    "vendor_company_id": 3,
+    "visit_number": 1
+  },
+  {
+    "end_time": "2026-07-16T17:00:00+05:30",
+    "engineer_id": 9,
+    "id": 8,
+    "outcome": "completed",
+    "schedule_id": 4,
+    "start_time": "2026-07-16T16:00:00+05:30",
+    "ticket_id": 4,
+    "vendor_company_id": 3,
+    "visit_number": 2
+  },
+  {
+    "end_time": "2026-05-30T08:00:00+05:30",
+    "engineer_id": 3,
+    "id": 9,
+    "outcome": "completed",
+    "schedule_id": 5,
+    "start_time": "2026-05-30T07:00:00+05:30",
+    "ticket_id": 5,
+    "vendor_company_id": 1,
+    "visit_number": 1
+  },
+  {
+    "end_time": "2026-05-31T10:00:00+05:30",
+    "engineer_id": 1,
+    "id": 10,
+    "outcome": "completed",
+    "schedule_id": 5,
+    "start_time": "2026-05-31T07:00:00+05:30",
+    "ticket_id": 5,
+    "vendor_company_id": 1,
+    "visit_number": 2
+  }
+]

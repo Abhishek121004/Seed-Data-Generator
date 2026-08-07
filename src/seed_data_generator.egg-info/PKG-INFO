@@ -1,0 +1,81 @@
+Metadata-Version: 2.4
+Name: seed-data-generator
+Version: 0.1.0
+Summary: Synthetic field-service seed data generator
+Requires-Python: >=3.12
+Description-Content-Type: text/markdown
+Requires-Dist: Faker>=40.0.0
+Requires-Dist: typer>=0.12.0
+Requires-Dist: rich>=13.0.0
+
+# Seed Data Generator
+
+This repo generates fully synthetic field-service seed data that conforms to `generic-schema.md` / **Field-Service Domain Schema v1**.
+
+## What it does
+
+- Generates one JSON file per entity plus `manifest.json`
+- Keeps foreign keys and dependency order aligned with the schema
+- Uses Faker with the `en_IN` locale for synthetic names, phones, emails, and addresses
+- Produces deterministic output for the same flags and seed
+- Validates the generated output with a schema-aware `validate` command
+
+## Install
+
+```bash
+pip install -e .
+```
+
+## Generate
+
+```bash
+seed-data-generator generate --clients 10 --projects 30 --tickets 200 --seed 42 --output-dir output
+```
+
+Flags:
+
+- `--clients`: number of client organizations
+- `--projects`: number of projects
+- `--tickets`: number of tickets
+- `--seed`: reproducible random seed
+- `--output-dir`: destination folder, overwritten on each run
+
+## Validate
+
+```bash
+seed-data-generator validate --output-dir output
+```
+
+## Output order
+
+Adapters should read `manifest.json` first, then load the files in the declared `load_sequence`:
+
+1. `roles.json`
+2. `countries.json`
+3. `states.json`
+4. `districts.json`
+5. `cities.json`
+6. `users.json`
+7. `vendor_companies.json`
+8. `field_engineers.json`
+9. `clients.json`
+10. `client_contacts.json`
+11. `billing_addresses.json`
+12. `service_types.json`
+13. `projects.json`
+14. `cost_centers.json`
+15. `tickets.json`
+16. `site_addresses.json`
+17. `allocations.json`
+18. `schedules.json`
+19. `visits.json`
+20. `work_orders.json`
+21. `tasks.json`
+22. `history_events.json`
+
+## Notes
+
+- The generator writes neutral JSON only; there is no system loading step in scope.
+- Every record uses stable synthetic integer IDs.
+- `validate` checks file presence, foreign keys, required fields, enum values, date ordering, and key ticket relationships.
+

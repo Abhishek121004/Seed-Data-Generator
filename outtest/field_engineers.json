@@ -1,0 +1,65 @@
+[
+  {
+    "full_name": "Anamika Kanda",
+    "id": 1,
+    "is_active": false,
+    "phone": "+919383465787",
+    "vendor_company_id": 1
+  },
+  {
+    "full_name": "Daksh Karnik",
+    "id": 2,
+    "is_active": false,
+    "phone": "+917150983930",
+    "vendor_company_id": 1
+  },
+  {
+    "full_name": "Diya Rattan",
+    "id": 3,
+    "is_active": true,
+    "phone": "+916310518347",
+    "vendor_company_id": 1
+  },
+  {
+    "full_name": "Dominic Kakar",
+    "id": 4,
+    "is_active": true,
+    "phone": "+917997376311",
+    "vendor_company_id": 1
+  },
+  {
+    "full_name": "Tara Dhar",
+    "id": 5,
+    "is_active": true,
+    "phone": "+916260647468",
+    "vendor_company_id": 2
+  },
+  {
+    "full_name": "Liam Koshy",
+    "id": 6,
+    "is_active": false,
+    "phone": "+919234309805",
+    "vendor_company_id": 2
+  },
+  {
+    "full_name": "Priya Rastogi",
+    "id": 7,
+    "is_active": false,
+    "phone": "+919882081219",
+    "vendor_company_id": 2
+  },
+  {
+    "full_name": "Gavin Batta",
+    "id": 8,
+    "is_active": true,
+    "phone": "+918135427849",
+    "vendor_company_id": 3
+  },
+  {
+    "full_name": "Michael Dutta",
+    "id": 9,
+    "is_active": true,
+    "phone": "+916841241182",
+    "vendor_company_id": 3
+  }
+]

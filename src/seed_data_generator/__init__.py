@@ -1,0 +1,2 @@
+"""Seed data generator package."""
+

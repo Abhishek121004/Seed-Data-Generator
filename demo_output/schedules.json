@@ -1,0 +1,37 @@
+[
+  {
+    "created_by_id": 5,
+    "id": 1,
+    "is_active": true,
+    "scheduled_at": "2026-06-10T21:00:00+05:30",
+    "ticket_id": 1
+  },
+  {
+    "created_by_id": 2,
+    "id": 2,
+    "is_active": true,
+    "scheduled_at": "2026-06-30T15:00:00+05:30",
+    "ticket_id": 2
+  },
+  {
+    "created_by_id": 3,
+    "id": 3,
+    "is_active": true,
+    "scheduled_at": "2026-06-11T04:00:00+05:30",
+    "ticket_id": 3
+  },
+  {
+    "created_by_id": 7,
+    "id": 4,
+    "is_active": true,
+    "scheduled_at": "2026-07-15T15:00:00+05:30",
+    "ticket_id": 4
+  },
+  {
+    "created_by_id": 4,
+    "id": 5,
+    "is_active": true,
+    "scheduled_at": "2026-05-30T05:00:00+05:30",
+    "ticket_id": 5
+  }
+]

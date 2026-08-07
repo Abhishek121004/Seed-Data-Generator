@@ -1,0 +1,62 @@
+[
+  {
+    "city_id": 13,
+    "email": "vendor0.3144@example.test",
+    "gst": "11WJTZU8084V8Z8",
+    "id": 1,
+    "name": "Wali, Acharya and Naik Services",
+    "pan": "RGQIE5135J",
+    "phone": "+918751079911",
+    "status": "approved"
+  },
+  {
+    "city_id": 5,
+    "email": "vendor1.5291@example.test",
+    "gst": "03VHVDL8692H6Z3",
+    "id": 2,
+    "name": "Khosla PLC Services",
+    "pan": "BLSRE6204L",
+    "phone": "+917786801128",
+    "status": "pending"
+  },
+  {
+    "city_id": 9,
+    "email": "vendor2.2137@example.test",
+    "gst": "33SGIBW6088V2Z6",
+    "id": 3,
+    "name": "Soman, Gandhi and Lanka Services",
+    "pan": "SIBDT6556T",
+    "phone": "+918586850142",
+    "status": "pending"
+  },
+  {
+    "city_id": 20,
+    "email": "vendor3.6491@example.test",
+    "gst": "16YYDYN3287B3Z0",
+    "id": 4,
+    "name": "Bhatt LLC Services",
+    "pan": "TYCON9367M",
+    "phone": "+916343320037",
+    "status": "approved"
+  },
+  {
+    "city_id": 3,
+    "email": "vendor4.5681@example.test",
+    "gst": "27NMYSW0967A1Z3",
+    "id": 5,
+    "name": "Bir Inc Services",
+    "pan": "WEWGC6658O",
+    "phone": "+917455812236",
+    "status": "rejected"
+  },
+  {
+    "city_id": 11,
+    "email": "vendor5.6529@example.test",
+    "gst": "10PVDSG7452T4Z2",
+    "id": 6,
+    "name": "Solanki Group Services",
+    "pan": "HUCYU0033A",
+    "phone": "+919464170805",
+    "status": "approved"
+  }
+]

@@ -1,0 +1,52 @@
+[
+  {
+    "account_manager_id": 19,
+    "id": 1,
+    "name": "Nori, Chopra and Kothari Pvt Ltd"
+  },
+  {
+    "account_manager_id": 18,
+    "id": 2,
+    "name": "Mallick Group Pvt Ltd"
+  },
+  {
+    "account_manager_id": 3,
+    "id": 3,
+    "name": "Chaudhari, Bedi and Zachariah Pvt Ltd"
+  },
+  {
+    "account_manager_id": 18,
+    "id": 4,
+    "name": "Kala-Rattan Pvt Ltd"
+  },
+  {
+    "account_manager_id": 6,
+    "id": 5,
+    "name": "Sur, Dubey and Gupta Pvt Ltd"
+  },
+  {
+    "account_manager_id": 19,
+    "id": 6,
+    "name": "Bhat, Murthy and Bhandari Pvt Ltd"
+  },
+  {
+    "account_manager_id": 7,
+    "id": 7,
+    "name": "Grewal Inc Pvt Ltd"
+  },
+  {
+    "account_manager_id": 2,
+    "id": 8,
+    "name": "Lal-Jayaraman Pvt Ltd"
+  },
+  {
+    "account_manager_id": 18,
+    "id": 9,
+    "name": "Deep-Mital Pvt Ltd"
+  },
+  {
+    "account_manager_id": 21,
+    "id": 10,
+    "name": "Yogi and Sons Pvt Ltd"
+  }
+]

@@ -1,0 +1,2801 @@
+[
+  {
+    "amount": 45977.76,
+    "created_at": "2026-06-10T09:00:00+05:30",
+    "currency": "INR",
+    "id": 1,
+    "number": "WO-000001",
+    "status": "invoiced",
+    "ticket_id": 1,
+    "vendor_company_id": 4,
+    "visit_ids": [
+      1,
+      2
+    ]
+  },
+  {
+    "amount": 21463.59,
+    "created_at": "2026-07-02T03:00:00+05:30",
+    "currency": "INR",
+    "id": 2,
+    "number": "WO-000002",
+    "status": "issued",
+    "ticket_id": 2,
+    "vendor_company_id": 1,
+    "visit_ids": [
+      3
+    ]
+  },
+  {
+    "amount": 15521.99,
+    "created_at": "2026-07-18T13:00:00+05:30",
+    "currency": "INR",
+    "id": 3,
+    "number": "WO-000003",
+    "status": "invoiced",
+    "ticket_id": 3,
+    "vendor_company_id": 1,
+    "visit_ids": [
+      4
+    ]
+  },
+  {
+    "amount": 29308.66,
+    "created_at": "2026-05-04T22:00:00+05:30",
+    "currency": "INR",
+    "id": 4,
+    "number": "WO-000004",
+    "status": "invoiced",
+    "ticket_id": 4,
+    "vendor_company_id": 1,
+    "visit_ids": [
+      5
+    ]
+  },
+  {
+    "amount": 14234.25,
+    "created_at": "2026-06-30T16:00:00+05:30",
+    "currency": "INR",
+    "id": 5,
+    "number": "WO-000005",
+    "status": "invoiced",
+    "ticket_id": 5,
+    "vendor_company_id": 2,
+    "visit_ids": [
+      6,
+      7,
+      8
+    ]
+  },
+  {
+    "amount": 26431.07,
+    "created_at": "2026-07-15T17:00:00+05:30",
+    "currency": "INR",
+    "id": 6,
+    "number": "WO-000006",
+    "status": "closed",
+    "ticket_id": 6,
+    "vendor_company_id": 1,
+    "visit_ids": [
+      9
+    ]
+  },
+  {
+    "amount": 49758.25,
+    "created_at": "2026-07-29T23:00:00+05:30",
+    "currency": "INR",
+    "id": 7,
+    "number": "WO-000007",
+    "status": "invoiced",
+    "ticket_id": 7,
+    "vendor_company_id": 4,
+    "visit_ids": [
+      10
+    ]
+  },
+  {
+    "amount": 38245.82,
+    "created_at": "2026-05-24T23:00:00+05:30",
+    "currency": "INR",
+    "id": 8,
+    "number": "WO-000008",
+    "status": "invoiced",
+    "ticket_id": 8,
+    "vendor_company_id": 4,
+    "visit_ids": [
+      11,
+      12
+    ]
+  },
+  {
+    "amount": 30243.46,
+    "created_at": "2026-06-10T06:00:00+05:30",
+    "currency": "INR",
+    "id": 9,
+    "number": "WO-000009",
+    "status": "invoiced",
+    "ticket_id": 9,
+    "vendor_company_id": 2,
+    "visit_ids": [
+      13
+    ]
+  },
+  {
+    "amount": 47363.33,
+    "created_at": "2026-06-19T00:00:00+05:30",
+    "currency": "INR",
+    "id": 10,
+    "number": "WO-000010",
+    "status": "invoiced",
+    "ticket_id": 10,
+    "vendor_company_id": 6,
+    "visit_ids": [
+      14
+    ]
+  },
+  {
+    "amount": 14199.04,
+    "created_at": "2026-06-06T20:00:00+05:30",
+    "currency": "INR",
+    "id": 11,
+    "number": "WO-000011",
+    "status": "issued",
+    "ticket_id": 11,
+    "vendor_company_id": 2,
+    "visit_ids": [
+      15
+    ]
+  },
+  {
+    "amount": 30802.99,
+    "created_at": "2026-06-09T02:00:00+05:30",
+    "currency": "INR",
+    "id": 12,
+    "number": "WO-000012",
+    "status": "invoiced",
+    "ticket_id": 12,
+    "vendor_company_id": 2,
+    "visit_ids": [
+      16
+    ]
+  },
+  {
+    "amount": 11879.14,
+    "created_at": "2026-06-06T18:00:00+05:30",
+    "currency": "INR",
+    "id": 13,
+    "number": "WO-000013",
+    "status": "cancelled",
+    "ticket_id": 13,
+    "vendor_company_id": 4,
+    "visit_ids": [
+      17,
+      18,
+      19
+    ]
+  },
+  {
+    "amount": 8452.9,
+    "created_at": "2026-05-14T13:00:00+05:30",
+    "currency": "INR",
+    "id": 14,
+    "number": "WO-000014",
+    "status": "closed",
+    "ticket_id": 14,
+    "vendor_company_id": 4,
+    "visit_ids": [
+      20
+    ]
+  },
+  {
+    "amount": 17730.21,
+    "created_at": "2026-06-04T04:00:00+05:30",
+    "currency": "INR",
+    "id": 15,
+    "number": "WO-000015",
+    "status": "issued",
+    "ticket_id": 15,
+    "vendor_company_id": 3,
+    "visit_ids": [
+      21
+    ]
+  },
+  {
+    "amount": 42303.15,
+    "created_at": "2026-07-22T15:00:00+05:30",
+    "currency": "INR",
+    "id": 16,
+    "number": "WO-000016",
+    "status": "issued",
+    "ticket_id": 16,
+    "vendor_company_id": 6,
+    "visit_ids": [
+      22,
+      23,
+      24
+    ]
+  },
+  {
+    "amount": 24988.94,
+    "created_at": "2026-07-07T07:00:00+05:30",
+    "currency": "INR",
+    "id": 17,
+    "number": "WO-000017",
+    "status": "issued",
+    "ticket_id": 17,
+    "vendor_company_id": 2,
+    "visit_ids": [
+      25,
+      26,
+      27
+    ]
+  },
+  {
+    "amount": 42397.1,
+    "created_at": "2026-06-16T01:00:00+05:30",
+    "currency": "INR",
+    "id": 18,
+    "number": "WO-000018",
+    "status": "closed",
+    "ticket_id": 18,
+    "vendor_company_id": 5,
+    "visit_ids": [
+      28,
+      29
+    ]
+  },
+  {
+    "amount": 8565.16,
+    "created_at": "2026-06-13T20:00:00+05:30",
+    "currency": "INR",
+    "id": 19,
+    "number": "WO-000019",
+    "status": "issued",
+    "ticket_id": 19,
+    "vendor_company_id": 1,
+    "visit_ids": [
+      30
+    ]
+  },
+  {
+    "amount": 15825.39,
+    "created_at": "2026-06-27T17:00:00+05:30",
+    "currency": "INR",
+    "id": 20,
+    "number": "WO-000020",
+    "status": "issued",
+    "ticket_id": 20,
+    "vendor_company_id": 4,
+    "visit_ids": [
+      31
+    ]
+  },
+  {
+    "amount": 20853.46,
+    "created_at": "2026-05-24T05:00:00+05:30",
+    "currency": "INR",
+    "id": 21,
+    "number": "WO-000021",
+    "status": "cancelled",
+    "ticket_id": 21,
+    "vendor_company_id": 4,
+    "visit_ids": [
+      32
+    ]
+  },
+  {
+    "amount": 24788.15,
+    "created_at": "2026-06-07T15:00:00+05:30",
+    "currency": "INR",
+    "id": 22,
+    "number": "WO-000022",
+    "status": "issued",
+    "ticket_id": 22,
+    "vendor_company_id": 1,
+    "visit_ids": [
+      33,
+      34,
+      35
+    ]
+  },
+  {
+    "amount": 21349.0,
+    "created_at": "2026-06-10T00:00:00+05:30",
+    "currency": "INR",
+    "id": 23,
+    "number": "WO-000023",
+    "status": "issued",
+    "ticket_id": 23,
+    "vendor_company_id": 3,
+    "visit_ids": [
+      36,
+      37,
+      38
+    ]
+  },
+  {
+    "amount": 32534.47,
+    "created_at": "2026-06-19T07:00:00+05:30",
+    "currency": "INR",
+    "id": 24,
+    "number": "WO-000024",
+    "status": "invoiced",
+    "ticket_id": 24,
+    "vendor_company_id": 3,
+    "visit_ids": [
+      39,
+      40,
+      41
+    ]
+  },
+  {
+    "amount": 29824.11,
+    "created_at": "2026-05-24T13:00:00+05:30",
+    "currency": "INR",
+    "id": 25,
+    "number": "WO-000025",
+    "status": "issued",
+    "ticket_id": 25,
+    "vendor_company_id": 3,
+    "visit_ids": [
+      42
+    ]
+  },
+  {
+    "amount": 18685.6,
+    "created_at": "2026-05-21T23:00:00+05:30",
+    "currency": "INR",
+    "id": 26,
+    "number": "WO-000026",
+    "status": "invoiced",
+    "ticket_id": 26,
+    "vendor_company_id": 4,
+    "visit_ids": [
+      43
+    ]
+  },
+  {
+    "amount": 30746.17,
+    "created_at": "2026-07-24T18:00:00+05:30",
+    "currency": "INR",
+    "id": 27,
+    "number": "WO-000027",
+    "status": "issued",
+    "ticket_id": 27,
+    "vendor_company_id": 3,
+    "visit_ids": [
+      44,
+      45,
+      46
+    ]
+  },
+  {
+    "amount": 9356.52,
+    "created_at": "2026-05-08T15:00:00+05:30",
+    "currency": "INR",
+    "id": 28,
+    "number": "WO-000028",
+    "status": "invoiced",
+    "ticket_id": 28,
+    "vendor_company_id": 4,
+    "visit_ids": [
+      47,
+      48,
+      49
+    ]
+  },
+  {
+    "amount": 7035.91,
+    "created_at": "2026-06-02T02:00:00+05:30",
+    "currency": "INR",
+    "id": 29,
+    "number": "WO-000029",
+    "status": "invoiced",
+    "ticket_id": 29,
+    "vendor_company_id": 4,
+    "visit_ids": [
+      50,
+      51,
+      52
+    ]
+  },
+  {
+    "amount": 19758.46,
+    "created_at": "2026-06-29T16:00:00+05:30",
+    "currency": "INR",
+    "id": 30,
+    "number": "WO-000030",
+    "status": "closed",
+    "ticket_id": 30,
+    "vendor_company_id": 3,
+    "visit_ids": [
+      53,
+      54
+    ]
+  },
+  {
+    "amount": 9945.3,
+    "created_at": "2026-05-24T19:00:00+05:30",
+    "currency": "INR",
+    "id": 31,
+    "number": "WO-000031",
+    "status": "issued",
+    "ticket_id": 31,
+    "vendor_company_id": 6,
+    "visit_ids": [
+      55,
+      56,
+      57
+    ]
+  },
+  {
+    "amount": 16896.3,
+    "created_at": "2026-07-26T19:00:00+05:30",
+    "currency": "INR",
+    "id": 32,
+    "number": "WO-000032",
+    "status": "invoiced",
+    "ticket_id": 32,
+    "vendor_company_id": 6,
+    "visit_ids": [
+      58
+    ]
+  },
+  {
+    "amount": 14093.06,
+    "created_at": "2026-06-26T15:00:00+05:30",
+    "currency": "INR",
+    "id": 33,
+    "number": "WO-000033",
+    "status": "cancelled",
+    "ticket_id": 33,
+    "vendor_company_id": 5,
+    "visit_ids": [
+      59,
+      60,
+      61
+    ]
+  },
+  {
+    "amount": 48376.13,
+    "created_at": "2026-05-27T20:00:00+05:30",
+    "currency": "INR",
+    "id": 34,
+    "number": "WO-000034",
+    "status": "issued",
+    "ticket_id": 34,
+    "vendor_company_id": 3,
+    "visit_ids": [
+      62
+    ]
+  },
+  {
+    "amount": 47235.22,
+    "created_at": "2026-07-29T17:00:00+05:30",
+    "currency": "INR",
+    "id": 35,
+    "number": "WO-000035",
+    "status": "issued",
+    "ticket_id": 35,
+    "vendor_company_id": 4,
+    "visit_ids": [
+      63
+    ]
+  },
+  {
+    "amount": 25103.1,
+    "created_at": "2026-07-12T06:00:00+05:30",
+    "currency": "INR",
+    "id": 36,
+    "number": "WO-000036",
+    "status": "issued",
+    "ticket_id": 36,
+    "vendor_company_id": 2,
+    "visit_ids": [
+      64,
+      65
+    ]
+  },
+  {
+    "amount": 42152.16,
+    "created_at": "2026-05-11T18:00:00+05:30",
+    "currency": "INR",
+    "id": 37,
+    "number": "WO-000037",
+    "status": "issued",
+    "ticket_id": 37,
+    "vendor_company_id": 6,
+    "visit_ids": [
+      66,
+      67,
+      68
+    ]
+  },
+  {
+    "amount": 5979.67,
+    "created_at": "2026-07-22T00:00:00+05:30",
+    "currency": "INR",
+    "id": 38,
+    "number": "WO-000038",
+    "status": "cancelled",
+    "ticket_id": 38,
+    "vendor_company_id": 5,
+    "visit_ids": [
+      69,
+      70,
+      71
+    ]
+  },
+  {
+    "amount": 49042.6,
+    "created_at": "2026-07-26T07:00:00+05:30",
+    "currency": "INR",
+    "id": 39,
+    "number": "WO-000039",
+    "status": "cancelled",
+    "ticket_id": 39,
+    "vendor_company_id": 6,
+    "visit_ids": [
+      72,
+      73
+    ]
+  },
+  {
+    "amount": 44249.56,
+    "created_at": "2026-06-05T10:00:00+05:30",
+    "currency": "INR",
+    "id": 40,
+    "number": "WO-000040",
+    "status": "issued",
+    "ticket_id": 40,
+    "vendor_company_id": 1,
+    "visit_ids": [
+      74
+    ]
+  },
+  {
+    "amount": 18494.98,
+    "created_at": "2026-06-27T21:00:00+05:30",
+    "currency": "INR",
+    "id": 41,
+    "number": "WO-000041",
+    "status": "invoiced",
+    "ticket_id": 41,
+    "vendor_company_id": 6,
+    "visit_ids": [
+      75,
+      76,
+      77
+    ]
+  },
+  {
+    "amount": 14531.35,
+    "created_at": "2026-05-25T04:00:00+05:30",
+    "currency": "INR",
+    "id": 42,
+    "number": "WO-000042",
+    "status": "cancelled",
+    "ticket_id": 42,
+    "vendor_company_id": 6,
+    "visit_ids": [
+      78,
+      79,
+      80
+    ]
+  },
+  {
+    "amount": 23791.01,
+    "created_at": "2026-06-16T20:00:00+05:30",
+    "currency": "INR",
+    "id": 43,
+    "number": "WO-000043",
+    "status": "closed",
+    "ticket_id": 43,
+    "vendor_company_id": 4,
+    "visit_ids": [
+      81,
+      82
+    ]
+  },
+  {
+    "amount": 7720.26,
+    "created_at": "2026-06-02T13:00:00+05:30",
+    "currency": "INR",
+    "id": 44,
+    "number": "WO-000044",
+    "status": "issued",
+    "ticket_id": 44,
+    "vendor_company_id": 2,
+    "visit_ids": [
+      83,
+      84,
+      85
+    ]
+  },
+  {
+    "amount": 35781.87,
+    "created_at": "2026-07-31T23:00:00+05:30",
+    "currency": "INR",
+    "id": 45,
+    "number": "WO-000045",
+    "status": "invoiced",
+    "ticket_id": 45,
+    "vendor_company_id": 6,
+    "visit_ids": [
+      86,
+      87,
+      88
+    ]
+  },
+  {
+    "amount": 29436.38,
+    "created_at": "2026-07-26T07:00:00+05:30",
+    "currency": "INR",
+    "id": 46,
+    "number": "WO-000046",
+    "status": "invoiced",
+    "ticket_id": 46,
+    "vendor_company_id": 3,
+    "visit_ids": [
+      89
+    ]
+  },
+  {
+    "amount": 15266.23,
+    "created_at": "2026-06-15T09:00:00+05:30",
+    "currency": "INR",
+    "id": 47,
+    "number": "WO-000047",
+    "status": "invoiced",
+    "ticket_id": 47,
+    "vendor_company_id": 6,
+    "visit_ids": [
+      90,
+      91,
+      92
+    ]
+  },
+  {
+    "amount": 40299.74,
+    "created_at": "2026-06-16T11:00:00+05:30",
+    "currency": "INR",
+    "id": 48,
+    "number": "WO-000048",
+    "status": "issued",
+    "ticket_id": 48,
+    "vendor_company_id": 1,
+    "visit_ids": [
+      93,
+      94
+    ]
+  },
+  {
+    "amount": 9813.76,
+    "created_at": "2026-06-15T11:00:00+05:30",
+    "currency": "INR",
+    "id": 49,
+    "number": "WO-000049",
+    "status": "issued",
+    "ticket_id": 49,
+    "vendor_company_id": 4,
+    "visit_ids": [
+      95,
+      96
+    ]
+  },
+  {
+    "amount": 13096.72,
+    "created_at": "2026-05-11T23:00:00+05:30",
+    "currency": "INR",
+    "id": 50,
+    "number": "WO-000050",
+    "status": "issued",
+    "ticket_id": 50,
+    "vendor_company_id": 2,
+    "visit_ids": [
+      97,
+      98
+    ]
+  },
+  {
+    "amount": 32570.51,
+    "created_at": "2026-06-12T01:00:00+05:30",
+    "currency": "INR",
+    "id": 51,
+    "number": "WO-000051",
+    "status": "invoiced",
+    "ticket_id": 51,
+    "vendor_company_id": 4,
+    "visit_ids": [
+      99,
+      100
+    ]
+  },
+  {
+    "amount": 42409.3,
+    "created_at": "2026-05-29T00:00:00+05:30",
+    "currency": "INR",
+    "id": 52,
+    "number": "WO-000052",
+    "status": "issued",
+    "ticket_id": 52,
+    "vendor_company_id": 4,
+    "visit_ids": [
+      101
+    ]
+  },
+  {
+    "amount": 48130.82,
+    "created_at": "2026-06-06T16:00:00+05:30",
+    "currency": "INR",
+    "id": 53,
+    "number": "WO-000053",
+    "status": "issued",
+    "ticket_id": 53,
+    "vendor_company_id": 6,
+    "visit_ids": [
+      102
+    ]
+  },
+  {
+    "amount": 25603.73,
+    "created_at": "2026-05-17T23:00:00+05:30",
+    "currency": "INR",
+    "id": 54,
+    "number": "WO-000054",
+    "status": "issued",
+    "ticket_id": 54,
+    "vendor_company_id": 6,
+    "visit_ids": [
+      103,
+      104,
+      105
+    ]
+  },
+  {
+    "amount": 32873.45,
+    "created_at": "2026-06-24T22:00:00+05:30",
+    "currency": "INR",
+    "id": 55,
+    "number": "WO-000055",
+    "status": "issued",
+    "ticket_id": 55,
+    "vendor_company_id": 4,
+    "visit_ids": [
+      106,
+      107
+    ]
+  },
+  {
+    "amount": 42047.73,
+    "created_at": "2026-06-02T00:00:00+05:30",
+    "currency": "INR",
+    "id": 56,
+    "number": "WO-000056",
+    "status": "issued",
+    "ticket_id": 56,
+    "vendor_company_id": 5,
+    "visit_ids": [
+      108,
+      109
+    ]
+  },
+  {
+    "amount": 47857.88,
+    "created_at": "2026-05-12T23:00:00+05:30",
+    "currency": "INR",
+    "id": 57,
+    "number": "WO-000057",
+    "status": "closed",
+    "ticket_id": 57,
+    "vendor_company_id": 4,
+    "visit_ids": [
+      110,
+      111,
+      112
+    ]
+  },
+  {
+    "amount": 47761.43,
+    "created_at": "2026-07-04T03:00:00+05:30",
+    "currency": "INR",
+    "id": 58,
+    "number": "WO-000058",
+    "status": "invoiced",
+    "ticket_id": 58,
+    "vendor_company_id": 5,
+    "visit_ids": [
+      113,
+      114
+    ]
+  },
+  {
+    "amount": 10936.09,
+    "created_at": "2026-07-08T23:00:00+05:30",
+    "currency": "INR",
+    "id": 59,
+    "number": "WO-000059",
+    "status": "issued",
+    "ticket_id": 59,
+    "vendor_company_id": 3,
+    "visit_ids": [
+      115,
+      116,
+      117
+    ]
+  },
+  {
+    "amount": 43715.31,
+    "created_at": "2026-05-10T14:00:00+05:30",
+    "currency": "INR",
+    "id": 60,
+    "number": "WO-000060",
+    "status": "invoiced",
+    "ticket_id": 60,
+    "vendor_company_id": 1,
+    "visit_ids": [
+      118
+    ]
+  },
+  {
+    "amount": 37850.41,
+    "created_at": "2026-07-16T21:00:00+05:30",
+    "currency": "INR",
+    "id": 61,
+    "number": "WO-000061",
+    "status": "invoiced",
+    "ticket_id": 61,
+    "vendor_company_id": 1,
+    "visit_ids": [
+      119,
+      120
+    ]
+  },
+  {
+    "amount": 23938.86,
+    "created_at": "2026-05-19T15:00:00+05:30",
+    "currency": "INR",
+    "id": 62,
+    "number": "WO-000062",
+    "status": "closed",
+    "ticket_id": 62,
+    "vendor_company_id": 5,
+    "visit_ids": [
+      121,
+      122,
+      123
+    ]
+  },
+  {
+    "amount": 41362.7,
+    "created_at": "2026-07-26T22:00:00+05:30",
+    "currency": "INR",
+    "id": 63,
+    "number": "WO-000063",
+    "status": "issued",
+    "ticket_id": 63,
+    "vendor_company_id": 5,
+    "visit_ids": [
+      124
+    ]
+  },
+  {
+    "amount": 40234.42,
+    "created_at": "2026-07-04T02:00:00+05:30",
+    "currency": "INR",
+    "id": 64,
+    "number": "WO-000064",
+    "status": "closed",
+    "ticket_id": 64,
+    "vendor_company_id": 5,
+    "visit_ids": [
+      125
+    ]
+  },
+  {
+    "amount": 5552.96,
+    "created_at": "2026-06-30T03:00:00+05:30",
+    "currency": "INR",
+    "id": 65,
+    "number": "WO-000065",
+    "status": "issued",
+    "ticket_id": 65,
+    "vendor_company_id": 1,
+    "visit_ids": [
+      126
+    ]
+  },
+  {
+    "amount": 30371.3,
+    "created_at": "2026-05-12T13:00:00+05:30",
+    "currency": "INR",
+    "id": 66,
+    "number": "WO-000066",
+    "status": "cancelled",
+    "ticket_id": 66,
+    "vendor_company_id": 1,
+    "visit_ids": [
+      127,
+      128,
+      129
+    ]
+  },
+  {
+    "amount": 36538.11,
+    "created_at": "2026-07-16T14:00:00+05:30",
+    "currency": "INR",
+    "id": 67,
+    "number": "WO-000067",
+    "status": "closed",
+    "ticket_id": 67,
+    "vendor_company_id": 1,
+    "visit_ids": [
+      130,
+      131,
+      132
+    ]
+  },
+  {
+    "amount": 10433.15,
+    "created_at": "2026-05-21T02:00:00+05:30",
+    "currency": "INR",
+    "id": 68,
+    "number": "WO-000068",
+    "status": "issued",
+    "ticket_id": 68,
+    "vendor_company_id": 3,
+    "visit_ids": [
+      133,
+      134
+    ]
+  },
+  {
+    "amount": 40143.2,
+    "created_at": "2026-05-06T16:00:00+05:30",
+    "currency": "INR",
+    "id": 69,
+    "number": "WO-000069",
+    "status": "invoiced",
+    "ticket_id": 69,
+    "vendor_company_id": 4,
+    "visit_ids": [
+      135,
+      136
+    ]
+  },
+  {
+    "amount": 13421.8,
+    "created_at": "2026-07-24T18:00:00+05:30",
+    "currency": "INR",
+    "id": 70,
+    "number": "WO-000070",
+    "status": "issued",
+    "ticket_id": 70,
+    "vendor_company_id": 2,
+    "visit_ids": [
+      137,
+      138
+    ]
+  },
+  {
+    "amount": 20481.54,
+    "created_at": "2026-05-31T15:00:00+05:30",
+    "currency": "INR",
+    "id": 71,
+    "number": "WO-000071",
+    "status": "closed",
+    "ticket_id": 71,
+    "vendor_company_id": 2,
+    "visit_ids": [
+      139
+    ]
+  },
+  {
+    "amount": 21145.24,
+    "created_at": "2026-06-30T04:00:00+05:30",
+    "currency": "INR",
+    "id": 72,
+    "number": "WO-000072",
+    "status": "closed",
+    "ticket_id": 72,
+    "vendor_company_id": 2,
+    "visit_ids": [
+      140,
+      141
+    ]
+  },
+  {
+    "amount": 39846.49,
+    "created_at": "2026-05-30T19:00:00+05:30",
+    "currency": "INR",
+    "id": 73,
+    "number": "WO-000073",
+    "status": "closed",
+    "ticket_id": 73,
+    "vendor_company_id": 2,
+    "visit_ids": [
+      142,
+      143
+    ]
+  },
+  {
+    "amount": 36590.38,
+    "created_at": "2026-07-12T15:00:00+05:30",
+    "currency": "INR",
+    "id": 74,
+    "number": "WO-000074",
+    "status": "issued",
+    "ticket_id": 74,
+    "vendor_company_id": 5,
+    "visit_ids": [
+      144
+    ]
+  },
+  {
+    "amount": 20771.65,
+    "created_at": "2026-05-15T23:00:00+05:30",
+    "currency": "INR",
+    "id": 75,
+    "number": "WO-000075",
+    "status": "issued",
+    "ticket_id": 75,
+    "vendor_company_id": 3,
+    "visit_ids": [
+      145
+    ]
+  },
+  {
+    "amount": 45195.18,
+    "created_at": "2026-06-18T20:00:00+05:30",
+    "currency": "INR",
+    "id": 76,
+    "number": "WO-000076",
+    "status": "closed",
+    "ticket_id": 76,
+    "vendor_company_id": 1,
+    "visit_ids": [
+      146,
+      147
+    ]
+  },
+  {
+    "amount": 8687.12,
+    "created_at": "2026-07-10T19:00:00+05:30",
+    "currency": "INR",
+    "id": 77,
+    "number": "WO-000077",
+    "status": "issued",
+    "ticket_id": 77,
+    "vendor_company_id": 2,
+    "visit_ids": [
+      148,
+      149,
+      150
+    ]
+  },
+  {
+    "amount": 15238.07,
+    "created_at": "2026-06-17T01:00:00+05:30",
+    "currency": "INR",
+    "id": 78,
+    "number": "WO-000078",
+    "status": "issued",
+    "ticket_id": 78,
+    "vendor_company_id": 3,
+    "visit_ids": [
+      151,
+      152
+    ]
+  },
+  {
+    "amount": 49472.6,
+    "created_at": "2026-06-26T07:00:00+05:30",
+    "currency": "INR",
+    "id": 79,
+    "number": "WO-000079",
+    "status": "issued",
+    "ticket_id": 79,
+    "vendor_company_id": 5,
+    "visit_ids": [
+      153
+    ]
+  },
+  {
+    "amount": 32403.3,
+    "created_at": "2026-07-26T10:00:00+05:30",
+    "currency": "INR",
+    "id": 80,
+    "number": "WO-000080",
+    "status": "issued",
+    "ticket_id": 80,
+    "vendor_company_id": 3,
+    "visit_ids": [
+      154,
+      155,
+      156
+    ]
+  },
+  {
+    "amount": 34049.97,
+    "created_at": "2026-05-06T10:00:00+05:30",
+    "currency": "INR",
+    "id": 81,
+    "number": "WO-000081",
+    "status": "invoiced",
+    "ticket_id": 81,
+    "vendor_company_id": 3,
+    "visit_ids": [
+      157
+    ]
+  },
+  {
+    "amount": 10574.28,
+    "created_at": "2026-07-24T05:00:00+05:30",
+    "currency": "INR",
+    "id": 82,
+    "number": "WO-000082",
+    "status": "closed",
+    "ticket_id": 82,
+    "vendor_company_id": 2,
+    "visit_ids": [
+      158
+    ]
+  },
+  {
+    "amount": 48516.1,
+    "created_at": "2026-07-15T04:00:00+05:30",
+    "currency": "INR",
+    "id": 83,
+    "number": "WO-000083",
+    "status": "invoiced",
+    "ticket_id": 83,
+    "vendor_company_id": 1,
+    "visit_ids": [
+      159,
+      160,
+      161
+    ]
+  },
+  {
+    "amount": 39446.35,
+    "created_at": "2026-05-16T02:00:00+05:30",
+    "currency": "INR",
+    "id": 84,
+    "number": "WO-000084",
+    "status": "invoiced",
+    "ticket_id": 84,
+    "vendor_company_id": 5,
+    "visit_ids": [
+      162,
+      163
+    ]
+  },
+  {
+    "amount": 30156.42,
+    "created_at": "2026-06-13T21:00:00+05:30",
+    "currency": "INR",
+    "id": 85,
+    "number": "WO-000085",
+    "status": "cancelled",
+    "ticket_id": 85,
+    "vendor_company_id": 6,
+    "visit_ids": [
+      164,
+      165
+    ]
+  },
+  {
+    "amount": 45178.03,
+    "created_at": "2026-06-18T00:00:00+05:30",
+    "currency": "INR",
+    "id": 86,
+    "number": "WO-000086",
+    "status": "closed",
+    "ticket_id": 86,
+    "vendor_company_id": 6,
+    "visit_ids": [
+      166,
+      167
+    ]
+  },
+  {
+    "amount": 5806.23,
+    "created_at": "2026-08-03T21:00:00+05:30",
+    "currency": "INR",
+    "id": 87,
+    "number": "WO-000087",
+    "status": "closed",
+    "ticket_id": 87,
+    "vendor_company_id": 2,
+    "visit_ids": [
+      168,
+      169
+    ]
+  },
+  {
+    "amount": 36999.95,
+    "created_at": "2026-07-27T14:00:00+05:30",
+    "currency": "INR",
+    "id": 88,
+    "number": "WO-000088",
+    "status": "issued",
+    "ticket_id": 88,
+    "vendor_company_id": 5,
+    "visit_ids": [
+      170,
+      171,
+      172
+    ]
+  },
+  {
+    "amount": 32253.55,
+    "created_at": "2026-05-12T05:00:00+05:30",
+    "currency": "INR",
+    "id": 89,
+    "number": "WO-000089",
+    "status": "invoiced",
+    "ticket_id": 89,
+    "vendor_company_id": 5,
+    "visit_ids": [
+      173
+    ]
+  },
+  {
+    "amount": 35223.49,
+    "created_at": "2026-07-20T18:00:00+05:30",
+    "currency": "INR",
+    "id": 90,
+    "number": "WO-000090",
+    "status": "issued",
+    "ticket_id": 90,
+    "vendor_company_id": 2,
+    "visit_ids": [
+      174
+    ]
+  },
+  {
+    "amount": 21768.0,
+    "created_at": "2026-07-05T14:00:00+05:30",
+    "currency": "INR",
+    "id": 91,
+    "number": "WO-000091",
+    "status": "issued",
+    "ticket_id": 91,
+    "vendor_company_id": 1,
+    "visit_ids": [
+      175,
+      176,
+      177
+    ]
+  },
+  {
+    "amount": 44074.95,
+    "created_at": "2026-07-14T22:00:00+05:30",
+    "currency": "INR",
+    "id": 92,
+    "number": "WO-000092",
+    "status": "invoiced",
+    "ticket_id": 92,
+    "vendor_company_id": 4,
+    "visit_ids": [
+      178,
+      179,
+      180
+    ]
+  },
+  {
+    "amount": 8547.38,
+    "created_at": "2026-07-04T12:00:00+05:30",
+    "currency": "INR",
+    "id": 93,
+    "number": "WO-000093",
+    "status": "issued",
+    "ticket_id": 93,
+    "vendor_company_id": 5,
+    "visit_ids": [
+      181,
+      182,
+      183
+    ]
+  },
+  {
+    "amount": 19938.77,
+    "created_at": "2026-06-11T13:00:00+05:30",
+    "currency": "INR",
+    "id": 94,
+    "number": "WO-000094",
+    "status": "issued",
+    "ticket_id": 94,
+    "vendor_company_id": 5,
+    "visit_ids": [
+      184
+    ]
+  },
+  {
+    "amount": 13576.04,
+    "created_at": "2026-07-06T00:00:00+05:30",
+    "currency": "INR",
+    "id": 95,
+    "number": "WO-000095",
+    "status": "closed",
+    "ticket_id": 95,
+    "vendor_company_id": 2,
+    "visit_ids": [
+      185
+    ]
+  },
+  {
+    "amount": 44662.58,
+    "created_at": "2026-06-04T22:00:00+05:30",
+    "currency": "INR",
+    "id": 96,
+    "number": "WO-000096",
+    "status": "invoiced",
+    "ticket_id": 96,
+    "vendor_company_id": 5,
+    "visit_ids": [
+      186
+    ]
+  },
+  {
+    "amount": 7387.92,
+    "created_at": "2026-05-31T15:00:00+05:30",
+    "currency": "INR",
+    "id": 97,
+    "number": "WO-000097",
+    "status": "invoiced",
+    "ticket_id": 97,
+    "vendor_company_id": 2,
+    "visit_ids": [
+      187,
+      188,
+      189
+    ]
+  },
+  {
+    "amount": 38979.85,
+    "created_at": "2026-06-21T08:00:00+05:30",
+    "currency": "INR",
+    "id": 98,
+    "number": "WO-000098",
+    "status": "invoiced",
+    "ticket_id": 98,
+    "vendor_company_id": 4,
+    "visit_ids": [
+      190,
+      191,
+      192
+    ]
+  },
+  {
+    "amount": 36845.67,
+    "created_at": "2026-05-30T10:00:00+05:30",
+    "currency": "INR",
+    "id": 99,
+    "number": "WO-000099",
+    "status": "cancelled",
+    "ticket_id": 99,
+    "vendor_company_id": 2,
+    "visit_ids": [
+      193,
+      194
+    ]
+  },
+  {
+    "amount": 40829.3,
+    "created_at": "2026-07-23T19:00:00+05:30",
+    "currency": "INR",
+    "id": 100,
+    "number": "WO-000100",
+    "status": "invoiced",
+    "ticket_id": 100,
+    "vendor_company_id": 3,
+    "visit_ids": [
+      195,
+      196
+    ]
+  },
+  {
+    "amount": 25665.14,
+    "created_at": "2026-06-02T10:00:00+05:30",
+    "currency": "INR",
+    "id": 101,
+    "number": "WO-000101",
+    "status": "invoiced",
+    "ticket_id": 101,
+    "vendor_company_id": 5,
+    "visit_ids": [
+      197,
+      198,
+      199
+    ]
+  },
+  {
+    "amount": 6386.86,
+    "created_at": "2026-07-01T20:00:00+05:30",
+    "currency": "INR",
+    "id": 102,
+    "number": "WO-000102",
+    "status": "issued",
+    "ticket_id": 102,
+    "vendor_company_id": 4,
+    "visit_ids": [
+      200,
+      201,
+      202
+    ]
+  },
+  {
+    "amount": 13161.11,
+    "created_at": "2026-05-14T02:00:00+05:30",
+    "currency": "INR",
+    "id": 103,
+    "number": "WO-000103",
+    "status": "invoiced",
+    "ticket_id": 103,
+    "vendor_company_id": 5,
+    "visit_ids": [
+      203,
+      204
+    ]
+  },
+  {
+    "amount": 11857.77,
+    "created_at": "2026-06-30T22:00:00+05:30",
+    "currency": "INR",
+    "id": 104,
+    "number": "WO-000104",
+    "status": "closed",
+    "ticket_id": 104,
+    "vendor_company_id": 6,
+    "visit_ids": [
+      205
+    ]
+  },
+  {
+    "amount": 38009.51,
+    "created_at": "2026-05-12T03:00:00+05:30",
+    "currency": "INR",
+    "id": 105,
+    "number": "WO-000105",
+    "status": "invoiced",
+    "ticket_id": 105,
+    "vendor_company_id": 4,
+    "visit_ids": [
+      206
+    ]
+  },
+  {
+    "amount": 41294.3,
+    "created_at": "2026-06-12T09:00:00+05:30",
+    "currency": "INR",
+    "id": 106,
+    "number": "WO-000106",
+    "status": "closed",
+    "ticket_id": 106,
+    "vendor_company_id": 3,
+    "visit_ids": [
+      207
+    ]
+  },
+  {
+    "amount": 34183.61,
+    "created_at": "2026-05-10T06:00:00+05:30",
+    "currency": "INR",
+    "id": 107,
+    "number": "WO-000107",
+    "status": "cancelled",
+    "ticket_id": 107,
+    "vendor_company_id": 2,
+    "visit_ids": [
+      208
+    ]
+  },
+  {
+    "amount": 11760.82,
+    "created_at": "2026-06-16T04:00:00+05:30",
+    "currency": "INR",
+    "id": 108,
+    "number": "WO-000108",
+    "status": "issued",
+    "ticket_id": 108,
+    "vendor_company_id": 3,
+    "visit_ids": [
+      209,
+      210
+    ]
+  },
+  {
+    "amount": 12485.36,
+    "created_at": "2026-05-07T02:00:00+05:30",
+    "currency": "INR",
+    "id": 109,
+    "number": "WO-000109",
+    "status": "issued",
+    "ticket_id": 109,
+    "vendor_company_id": 6,
+    "visit_ids": [
+      211
+    ]
+  },
+  {
+    "amount": 8097.93,
+    "created_at": "2026-05-10T00:00:00+05:30",
+    "currency": "INR",
+    "id": 110,
+    "number": "WO-000110",
+    "status": "closed",
+    "ticket_id": 110,
+    "vendor_company_id": 2,
+    "visit_ids": [
+      212
+    ]
+  },
+  {
+    "amount": 30925.44,
+    "created_at": "2026-07-24T13:00:00+05:30",
+    "currency": "INR",
+    "id": 111,
+    "number": "WO-000111",
+    "status": "issued",
+    "ticket_id": 111,
+    "vendor_company_id": 1,
+    "visit_ids": [
+      213,
+      214,
+      215
+    ]
+  },
+  {
+    "amount": 49630.94,
+    "created_at": "2026-08-02T04:00:00+05:30",
+    "currency": "INR",
+    "id": 112,
+    "number": "WO-000112",
+    "status": "issued",
+    "ticket_id": 112,
+    "vendor_company_id": 2,
+    "visit_ids": [
+      216
+    ]
+  },
+  {
+    "amount": 12233.21,
+    "created_at": "2026-07-01T09:00:00+05:30",
+    "currency": "INR",
+    "id": 113,
+    "number": "WO-000113",
+    "status": "closed",
+    "ticket_id": 113,
+    "vendor_company_id": 2,
+    "visit_ids": [
+      217
+    ]
+  },
+  {
+    "amount": 13763.59,
+    "created_at": "2026-07-05T09:00:00+05:30",
+    "currency": "INR",
+    "id": 114,
+    "number": "WO-000114",
+    "status": "issued",
+    "ticket_id": 114,
+    "vendor_company_id": 5,
+    "visit_ids": [
+      218
+    ]
+  },
+  {
+    "amount": 20664.29,
+    "created_at": "2026-07-13T09:00:00+05:30",
+    "currency": "INR",
+    "id": 115,
+    "number": "WO-000115",
+    "status": "issued",
+    "ticket_id": 115,
+    "vendor_company_id": 4,
+    "visit_ids": [
+      219
+    ]
+  },
+  {
+    "amount": 43791.05,
+    "created_at": "2026-07-11T13:00:00+05:30",
+    "currency": "INR",
+    "id": 116,
+    "number": "WO-000116",
+    "status": "issued",
+    "ticket_id": 116,
+    "vendor_company_id": 5,
+    "visit_ids": [
+      220,
+      221
+    ]
+  },
+  {
+    "amount": 16943.24,
+    "created_at": "2026-05-29T01:00:00+05:30",
+    "currency": "INR",
+    "id": 117,
+    "number": "WO-000117",
+    "status": "cancelled",
+    "ticket_id": 117,
+    "vendor_company_id": 6,
+    "visit_ids": [
+      222,
+      223
+    ]
+  },
+  {
+    "amount": 27611.38,
+    "created_at": "2026-05-12T08:00:00+05:30",
+    "currency": "INR",
+    "id": 118,
+    "number": "WO-000118",
+    "status": "issued",
+    "ticket_id": 118,
+    "vendor_company_id": 4,
+    "visit_ids": [
+      224,
+      225,
+      226
+    ]
+  },
+  {
+    "amount": 36532.07,
+    "created_at": "2026-05-08T10:00:00+05:30",
+    "currency": "INR",
+    "id": 119,
+    "number": "WO-000119",
+    "status": "issued",
+    "ticket_id": 119,
+    "vendor_company_id": 5,
+    "visit_ids": [
+      227
+    ]
+  },
+  {
+    "amount": 9453.87,
+    "created_at": "2026-05-21T15:00:00+05:30",
+    "currency": "INR",
+    "id": 120,
+    "number": "WO-000120",
+    "status": "issued",
+    "ticket_id": 120,
+    "vendor_company_id": 4,
+    "visit_ids": [
+      228,
+      229
+    ]
+  },
+  {
+    "amount": 25111.86,
+    "created_at": "2026-06-18T05:00:00+05:30",
+    "currency": "INR",
+    "id": 121,
+    "number": "WO-000121",
+    "status": "issued",
+    "ticket_id": 121,
+    "vendor_company_id": 4,
+    "visit_ids": [
+      230
+    ]
+  },
+  {
+    "amount": 38738.29,
+    "created_at": "2026-06-21T22:00:00+05:30",
+    "currency": "INR",
+    "id": 122,
+    "number": "WO-000122",
+    "status": "issued",
+    "ticket_id": 122,
+    "vendor_company_id": 2,
+    "visit_ids": [
+      231,
+      232,
+      233
+    ]
+  },
+  {
+    "amount": 44190.42,
+    "created_at": "2026-07-23T17:00:00+05:30",
+    "currency": "INR",
+    "id": 123,
+    "number": "WO-000123",
+    "status": "invoiced",
+    "ticket_id": 123,
+    "vendor_company_id": 4,
+    "visit_ids": [
+      234,
+      235
+    ]
+  },
+  {
+    "amount": 38996.27,
+    "created_at": "2026-05-22T19:00:00+05:30",
+    "currency": "INR",
+    "id": 124,
+    "number": "WO-000124",
+    "status": "invoiced",
+    "ticket_id": 124,
+    "vendor_company_id": 1,
+    "visit_ids": [
+      236,
+      237
+    ]
+  },
+  {
+    "amount": 43406.69,
+    "created_at": "2026-05-24T09:00:00+05:30",
+    "currency": "INR",
+    "id": 125,
+    "number": "WO-000125",
+    "status": "issued",
+    "ticket_id": 125,
+    "vendor_company_id": 6,
+    "visit_ids": [
+      238,
+      239
+    ]
+  },
+  {
+    "amount": 47823.98,
+    "created_at": "2026-07-11T14:00:00+05:30",
+    "currency": "INR",
+    "id": 126,
+    "number": "WO-000126",
+    "status": "closed",
+    "ticket_id": 126,
+    "vendor_company_id": 3,
+    "visit_ids": [
+      240,
+      241,
+      242
+    ]
+  },
+  {
+    "amount": 43864.59,
+    "created_at": "2026-08-03T05:00:00+05:30",
+    "currency": "INR",
+    "id": 127,
+    "number": "WO-000127",
+    "status": "issued",
+    "ticket_id": 127,
+    "vendor_company_id": 6,
+    "visit_ids": [
+      243,
+      244,
+      245
+    ]
+  },
+  {
+    "amount": 9832.62,
+    "created_at": "2026-07-01T22:00:00+05:30",
+    "currency": "INR",
+    "id": 128,
+    "number": "WO-000128",
+    "status": "issued",
+    "ticket_id": 128,
+    "vendor_company_id": 3,
+    "visit_ids": [
+      246
+    ]
+  },
+  {
+    "amount": 21520.07,
+    "created_at": "2026-05-08T06:00:00+05:30",
+    "currency": "INR",
+    "id": 129,
+    "number": "WO-000129",
+    "status": "issued",
+    "ticket_id": 129,
+    "vendor_company_id": 4,
+    "visit_ids": [
+      247,
+      248,
+      249
+    ]
+  },
+  {
+    "amount": 9817.48,
+    "created_at": "2026-07-26T06:00:00+05:30",
+    "currency": "INR",
+    "id": 130,
+    "number": "WO-000130",
+    "status": "issued",
+    "ticket_id": 130,
+    "vendor_company_id": 4,
+    "visit_ids": [
+      250,
+      251
+    ]
+  },
+  {
+    "amount": 22339.9,
+    "created_at": "2026-07-28T11:00:00+05:30",
+    "currency": "INR",
+    "id": 131,
+    "number": "WO-000131",
+    "status": "invoiced",
+    "ticket_id": 131,
+    "vendor_company_id": 1,
+    "visit_ids": [
+      252,
+      253,
+      254
+    ]
+  },
+  {
+    "amount": 29760.74,
+    "created_at": "2026-05-15T20:00:00+05:30",
+    "currency": "INR",
+    "id": 132,
+    "number": "WO-000132",
+    "status": "issued",
+    "ticket_id": 132,
+    "vendor_company_id": 2,
+    "visit_ids": [
+      255,
+      256,
+      257
+    ]
+  },
+  {
+    "amount": 46304.68,
+    "created_at": "2026-07-18T09:00:00+05:30",
+    "currency": "INR",
+    "id": 133,
+    "number": "WO-000133",
+    "status": "issued",
+    "ticket_id": 133,
+    "vendor_company_id": 3,
+    "visit_ids": [
+      258,
+      259,
+      260
+    ]
+  },
+  {
+    "amount": 38877.81,
+    "created_at": "2026-05-22T16:00:00+05:30",
+    "currency": "INR",
+    "id": 134,
+    "number": "WO-000134",
+    "status": "invoiced",
+    "ticket_id": 134,
+    "vendor_company_id": 4,
+    "visit_ids": [
+      261,
+      262,
+      263
+    ]
+  },
+  {
+    "amount": 16981.57,
+    "created_at": "2026-07-28T03:00:00+05:30",
+    "currency": "INR",
+    "id": 135,
+    "number": "WO-000135",
+    "status": "issued",
+    "ticket_id": 135,
+    "vendor_company_id": 5,
+    "visit_ids": [
+      264,
+      265
+    ]
+  },
+  {
+    "amount": 44093.86,
+    "created_at": "2026-07-11T17:00:00+05:30",
+    "currency": "INR",
+    "id": 136,
+    "number": "WO-000136",
+    "status": "invoiced",
+    "ticket_id": 136,
+    "vendor_company_id": 3,
+    "visit_ids": [
+      266,
+      267,
+      268
+    ]
+  },
+  {
+    "amount": 34464.1,
+    "created_at": "2026-07-07T02:00:00+05:30",
+    "currency": "INR",
+    "id": 137,
+    "number": "WO-000137",
+    "status": "invoiced",
+    "ticket_id": 137,
+    "vendor_company_id": 2,
+    "visit_ids": [
+      269
+    ]
+  },
+  {
+    "amount": 49819.75,
+    "created_at": "2026-06-16T10:00:00+05:30",
+    "currency": "INR",
+    "id": 138,
+    "number": "WO-000138",
+    "status": "invoiced",
+    "ticket_id": 138,
+    "vendor_company_id": 1,
+    "visit_ids": [
+      270,
+      271,
+      272
+    ]
+  },
+  {
+    "amount": 14304.08,
+    "created_at": "2026-06-13T12:00:00+05:30",
+    "currency": "INR",
+    "id": 139,
+    "number": "WO-000139",
+    "status": "issued",
+    "ticket_id": 139,
+    "vendor_company_id": 5,
+    "visit_ids": [
+      273
+    ]
+  },
+  {
+    "amount": 49368.0,
+    "created_at": "2026-07-15T18:00:00+05:30",
+    "currency": "INR",
+    "id": 140,
+    "number": "WO-000140",
+    "status": "cancelled",
+    "ticket_id": 140,
+    "vendor_company_id": 3,
+    "visit_ids": [
+      274,
+      275
+    ]
+  },
+  {
+    "amount": 15014.94,
+    "created_at": "2026-07-23T06:00:00+05:30",
+    "currency": "INR",
+    "id": 141,
+    "number": "WO-000141",
+    "status": "issued",
+    "ticket_id": 141,
+    "vendor_company_id": 2,
+    "visit_ids": [
+      276
+    ]
+  },
+  {
+    "amount": 42242.95,
+    "created_at": "2026-07-04T22:00:00+05:30",
+    "currency": "INR",
+    "id": 142,
+    "number": "WO-000142",
+    "status": "issued",
+    "ticket_id": 142,
+    "vendor_company_id": 4,
+    "visit_ids": [
+      277,
+      278,
+      279
+    ]
+  },
+  {
+    "amount": 28024.99,
+    "created_at": "2026-05-31T17:00:00+05:30",
+    "currency": "INR",
+    "id": 143,
+    "number": "WO-000143",
+    "status": "issued",
+    "ticket_id": 143,
+    "vendor_company_id": 3,
+    "visit_ids": [
+      280,
+      281,
+      282
+    ]
+  },
+  {
+    "amount": 44721.63,
+    "created_at": "2026-07-10T13:00:00+05:30",
+    "currency": "INR",
+    "id": 144,
+    "number": "WO-000144",
+    "status": "invoiced",
+    "ticket_id": 144,
+    "vendor_company_id": 6,
+    "visit_ids": [
+      283
+    ]
+  },
+  {
+    "amount": 12260.09,
+    "created_at": "2026-08-02T08:00:00+05:30",
+    "currency": "INR",
+    "id": 145,
+    "number": "WO-000145",
+    "status": "closed",
+    "ticket_id": 145,
+    "vendor_company_id": 2,
+    "visit_ids": [
+      284
+    ]
+  },
+  {
+    "amount": 37583.34,
+    "created_at": "2026-06-16T08:00:00+05:30",
+    "currency": "INR",
+    "id": 146,
+    "number": "WO-000146",
+    "status": "issued",
+    "ticket_id": 146,
+    "vendor_company_id": 3,
+    "visit_ids": [
+      285,
+      286
+    ]
+  },
+  {
+    "amount": 30218.7,
+    "created_at": "2026-05-14T21:00:00+05:30",
+    "currency": "INR",
+    "id": 147,
+    "number": "WO-000147",
+    "status": "cancelled",
+    "ticket_id": 147,
+    "vendor_company_id": 6,
+    "visit_ids": [
+      287
+    ]
+  },
+  {
+    "amount": 33224.02,
+    "created_at": "2026-06-21T14:00:00+05:30",
+    "currency": "INR",
+    "id": 148,
+    "number": "WO-000148",
+    "status": "invoiced",
+    "ticket_id": 148,
+    "vendor_company_id": 6,
+    "visit_ids": [
+      288
+    ]
+  },
+  {
+    "amount": 18618.29,
+    "created_at": "2026-06-24T11:00:00+05:30",
+    "currency": "INR",
+    "id": 149,
+    "number": "WO-000149",
+    "status": "closed",
+    "ticket_id": 149,
+    "vendor_company_id": 2,
+    "visit_ids": [
+      289,
+      290,
+      291
+    ]
+  },
+  {
+    "amount": 19998.04,
+    "created_at": "2026-05-31T18:00:00+05:30",
+    "currency": "INR",
+    "id": 150,
+    "number": "WO-000150",
+    "status": "invoiced",
+    "ticket_id": 150,
+    "vendor_company_id": 5,
+    "visit_ids": [
+      292,
+      293,
+      294
+    ]
+  },
+  {
+    "amount": 12707.37,
+    "created_at": "2026-07-08T19:00:00+05:30",
+    "currency": "INR",
+    "id": 151,
+    "number": "WO-000151",
+    "status": "issued",
+    "ticket_id": 151,
+    "vendor_company_id": 4,
+    "visit_ids": [
+      295,
+      296
+    ]
+  },
+  {
+    "amount": 26174.56,
+    "created_at": "2026-07-23T14:00:00+05:30",
+    "currency": "INR",
+    "id": 152,
+    "number": "WO-000152",
+    "status": "closed",
+    "ticket_id": 152,
+    "vendor_company_id": 5,
+    "visit_ids": [
+      297,
+      298,
+      299
+    ]
+  },
+  {
+    "amount": 12155.91,
+    "created_at": "2026-06-23T15:00:00+05:30",
+    "currency": "INR",
+    "id": 153,
+    "number": "WO-000153",
+    "status": "invoiced",
+    "ticket_id": 153,
+    "vendor_company_id": 4,
+    "visit_ids": [
+      300,
+      301,
+      302
+    ]
+  },
+  {
+    "amount": 11251.25,
+    "created_at": "2026-05-12T00:00:00+05:30",
+    "currency": "INR",
+    "id": 154,
+    "number": "WO-000154",
+    "status": "issued",
+    "ticket_id": 154,
+    "vendor_company_id": 5,
+    "visit_ids": [
+      303,
+      304
+    ]
+  },
+  {
+    "amount": 33134.64,
+    "created_at": "2026-06-07T10:00:00+05:30",
+    "currency": "INR",
+    "id": 155,
+    "number": "WO-000155",
+    "status": "closed",
+    "ticket_id": 155,
+    "vendor_company_id": 3,
+    "visit_ids": [
+      305,
+      306,
+      307
+    ]
+  },
+  {
+    "amount": 31007.23,
+    "created_at": "2026-06-19T18:00:00+05:30",
+    "currency": "INR",
+    "id": 156,
+    "number": "WO-000156",
+    "status": "closed",
+    "ticket_id": 156,
+    "vendor_company_id": 6,
+    "visit_ids": [
+      308,
+      309,
+      310
+    ]
+  },
+  {
+    "amount": 35783.33,
+    "created_at": "2026-06-16T16:00:00+05:30",
+    "currency": "INR",
+    "id": 157,
+    "number": "WO-000157",
+    "status": "invoiced",
+    "ticket_id": 157,
+    "vendor_company_id": 6,
+    "visit_ids": [
+      311
+    ]
+  },
+  {
+    "amount": 17503.2,
+    "created_at": "2026-06-06T01:00:00+05:30",
+    "currency": "INR",
+    "id": 158,
+    "number": "WO-000158",
+    "status": "issued",
+    "ticket_id": 158,
+    "vendor_company_id": 2,
+    "visit_ids": [
+      312,
+      313,
+      314
+    ]
+  },
+  {
+    "amount": 24808.33,
+    "created_at": "2026-06-05T17:00:00+05:30",
+    "currency": "INR",
+    "id": 159,
+    "number": "WO-000159",
+    "status": "issued",
+    "ticket_id": 159,
+    "vendor_company_id": 2,
+    "visit_ids": [
+      315
+    ]
+  },
+  {
+    "amount": 6845.79,
+    "created_at": "2026-07-29T03:00:00+05:30",
+    "currency": "INR",
+    "id": 160,
+    "number": "WO-000160",
+    "status": "closed",
+    "ticket_id": 160,
+    "vendor_company_id": 5,
+    "visit_ids": [
+      316,
+      317
+    ]
+  },
+  {
+    "amount": 5538.26,
+    "created_at": "2026-07-22T09:00:00+05:30",
+    "currency": "INR",
+    "id": 161,
+    "number": "WO-000161",
+    "status": "invoiced",
+    "ticket_id": 161,
+    "vendor_company_id": 6,
+    "visit_ids": [
+      318
+    ]
+  },
+  {
+    "amount": 17437.26,
+    "created_at": "2026-07-31T10:00:00+05:30",
+    "currency": "INR",
+    "id": 162,
+    "number": "WO-000162",
+    "status": "issued",
+    "ticket_id": 162,
+    "vendor_company_id": 1,
+    "visit_ids": [
+      319,
+      320
+    ]
+  },
+  {
+    "amount": 9647.92,
+    "created_at": "2026-06-30T20:00:00+05:30",
+    "currency": "INR",
+    "id": 163,
+    "number": "WO-000163",
+    "status": "cancelled",
+    "ticket_id": 163,
+    "vendor_company_id": 4,
+    "visit_ids": [
+      321
+    ]
+  },
+  {
+    "amount": 30525.97,
+    "created_at": "2026-08-04T16:00:00+05:30",
+    "currency": "INR",
+    "id": 164,
+    "number": "WO-000164",
+    "status": "invoiced",
+    "ticket_id": 164,
+    "vendor_company_id": 5,
+    "visit_ids": [
+      322,
+      323
+    ]
+  },
+  {
+    "amount": 13689.17,
+    "created_at": "2026-06-21T02:00:00+05:30",
+    "currency": "INR",
+    "id": 165,
+    "number": "WO-000165",
+    "status": "invoiced",
+    "ticket_id": 165,
+    "vendor_company_id": 2,
+    "visit_ids": [
+      324,
+      325
+    ]
+  },
+  {
+    "amount": 15920.71,
+    "created_at": "2026-06-08T13:00:00+05:30",
+    "currency": "INR",
+    "id": 166,
+    "number": "WO-000166",
+    "status": "cancelled",
+    "ticket_id": 166,
+    "vendor_company_id": 1,
+    "visit_ids": [
+      326,
+      327
+    ]
+  },
+  {
+    "amount": 12562.29,
+    "created_at": "2026-07-26T20:00:00+05:30",
+    "currency": "INR",
+    "id": 167,
+    "number": "WO-000167",
+    "status": "closed",
+    "ticket_id": 167,
+    "vendor_company_id": 2,
+    "visit_ids": [
+      328,
+      329
+    ]
+  },
+  {
+    "amount": 40216.24,
+    "created_at": "2026-08-02T04:00:00+05:30",
+    "currency": "INR",
+    "id": 168,
+    "number": "WO-000168",
+    "status": "closed",
+    "ticket_id": 168,
+    "vendor_company_id": 6,
+    "visit_ids": [
+      330,
+      331,
+      332
+    ]
+  },
+  {
+    "amount": 32756.87,
+    "created_at": "2026-05-25T14:00:00+05:30",
+    "currency": "INR",
+    "id": 169,
+    "number": "WO-000169",
+    "status": "invoiced",
+    "ticket_id": 169,
+    "vendor_company_id": 1,
+    "visit_ids": [
+      333
+    ]
+  },
+  {
+    "amount": 31329.15,
+    "created_at": "2026-07-23T09:00:00+05:30",
+    "currency": "INR",
+    "id": 170,
+    "number": "WO-000170",
+    "status": "invoiced",
+    "ticket_id": 170,
+    "vendor_company_id": 6,
+    "visit_ids": [
+      334
+    ]
+  },
+  {
+    "amount": 12055.47,
+    "created_at": "2026-07-08T13:00:00+05:30",
+    "currency": "INR",
+    "id": 171,
+    "number": "WO-000171",
+    "status": "issued",
+    "ticket_id": 171,
+    "vendor_company_id": 1,
+    "visit_ids": [
+      335
+    ]
+  },
+  {
+    "amount": 9409.96,
+    "created_at": "2026-06-03T00:00:00+05:30",
+    "currency": "INR",
+    "id": 172,
+    "number": "WO-000172",
+    "status": "closed",
+    "ticket_id": 172,
+    "vendor_company_id": 4,
+    "visit_ids": [
+      336,
+      337,
+      338
+    ]
+  },
+  {
+    "amount": 32562.56,
+    "created_at": "2026-08-02T13:00:00+05:30",
+    "currency": "INR",
+    "id": 173,
+    "number": "WO-000173",
+    "status": "cancelled",
+    "ticket_id": 173,
+    "vendor_company_id": 5,
+    "visit_ids": [
+      339,
+      340,
+      341
+    ]
+  },
+  {
+    "amount": 7450.7,
+    "created_at": "2026-06-17T07:00:00+05:30",
+    "currency": "INR",
+    "id": 174,
+    "number": "WO-000174",
+    "status": "issued",
+    "ticket_id": 174,
+    "vendor_company_id": 2,
+    "visit_ids": [
+      342,
+      343,
+      344
+    ]
+  },
+  {
+    "amount": 47844.71,
+    "created_at": "2026-05-14T18:00:00+05:30",
+    "currency": "INR",
+    "id": 175,
+    "number": "WO-000175",
+    "status": "issued",
+    "ticket_id": 175,
+    "vendor_company_id": 1,
+    "visit_ids": [
+      345
+    ]
+  },
+  {
+    "amount": 39638.74,
+    "created_at": "2026-05-14T13:00:00+05:30",
+    "currency": "INR",
+    "id": 176,
+    "number": "WO-000176",
+    "status": "issued",
+    "ticket_id": 176,
+    "vendor_company_id": 2,
+    "visit_ids": [
+      346,
+      347,
+      348
+    ]
+  },
+  {
+    "amount": 12316.89,
+    "created_at": "2026-05-06T00:00:00+05:30",
+    "currency": "INR",
+    "id": 177,
+    "number": "WO-000177",
+    "status": "cancelled",
+    "ticket_id": 177,
+    "vendor_company_id": 2,
+    "visit_ids": [
+      349
+    ]
+  },
+  {
+    "amount": 9161.65,
+    "created_at": "2026-08-04T15:00:00+05:30",
+    "currency": "INR",
+    "id": 178,
+    "number": "WO-000178",
+    "status": "invoiced",
+    "ticket_id": 178,
+    "vendor_company_id": 3,
+    "visit_ids": [
+      350,
+      351,
+      352
+    ]
+  },
+  {
+    "amount": 37753.4,
+    "created_at": "2026-06-09T03:00:00+05:30",
+    "currency": "INR",
+    "id": 179,
+    "number": "WO-000179",
+    "status": "issued",
+    "ticket_id": 179,
+    "vendor_company_id": 3,
+    "visit_ids": [
+      353,
+      354,
+      355
+    ]
+  },
+  {
+    "amount": 42025.96,
+    "created_at": "2026-05-18T15:00:00+05:30",
+    "currency": "INR",
+    "id": 180,
+    "number": "WO-000180",
+    "status": "invoiced",
+    "ticket_id": 180,
+    "vendor_company_id": 1,
+    "visit_ids": [
+      356,
+      357
+    ]
+  },
+  {
+    "amount": 12328.13,
+    "created_at": "2026-05-13T06:00:00+05:30",
+    "currency": "INR",
+    "id": 181,
+    "number": "WO-000181",
+    "status": "cancelled",
+    "ticket_id": 181,
+    "vendor_company_id": 6,
+    "visit_ids": [
+      358,
+      359
+    ]
+  },
+  {
+    "amount": 36408.54,
+    "created_at": "2026-06-17T16:00:00+05:30",
+    "currency": "INR",
+    "id": 182,
+    "number": "WO-000182",
+    "status": "invoiced",
+    "ticket_id": 182,
+    "vendor_company_id": 2,
+    "visit_ids": [
+      360
+    ]
+  },
+  {
+    "amount": 31894.19,
+    "created_at": "2026-06-02T09:00:00+05:30",
+    "currency": "INR",
+    "id": 183,
+    "number": "WO-000183",
+    "status": "invoiced",
+    "ticket_id": 183,
+    "vendor_company_id": 2,
+    "visit_ids": [
+      361,
+      362,
+      363
+    ]
+  },
+  {
+    "amount": 45883.82,
+    "created_at": "2026-07-17T02:00:00+05:30",
+    "currency": "INR",
+    "id": 184,
+    "number": "WO-000184",
+    "status": "issued",
+    "ticket_id": 184,
+    "vendor_company_id": 1,
+    "visit_ids": [
+      364
+    ]
+  },
+  {
+    "amount": 43308.36,
+    "created_at": "2026-07-10T01:00:00+05:30",
+    "currency": "INR",
+    "id": 185,
+    "number": "WO-000185",
+    "status": "closed",
+    "ticket_id": 185,
+    "vendor_company_id": 3,
+    "visit_ids": [
+      365,
+      366,
+      367
+    ]
+  },
+  {
+    "amount": 13495.32,
+    "created_at": "2026-07-06T06:00:00+05:30",
+    "currency": "INR",
+    "id": 186,
+    "number": "WO-000186",
+    "status": "issued",
+    "ticket_id": 186,
+    "vendor_company_id": 1,
+    "visit_ids": [
+      368,
+      369,
+      370
+    ]
+  },
+  {
+    "amount": 39468.75,
+    "created_at": "2026-05-10T15:00:00+05:30",
+    "currency": "INR",
+    "id": 187,
+    "number": "WO-000187",
+    "status": "issued",
+    "ticket_id": 187,
+    "vendor_company_id": 6,
+    "visit_ids": [
+      371,
+      372
+    ]
+  },
+  {
+    "amount": 22218.48,
+    "created_at": "2026-06-11T20:00:00+05:30",
+    "currency": "INR",
+    "id": 188,
+    "number": "WO-000188",
+    "status": "closed",
+    "ticket_id": 188,
+    "vendor_company_id": 3,
+    "visit_ids": [
+      373
+    ]
+  },
+  {
+    "amount": 18637.01,
+    "created_at": "2026-06-26T08:00:00+05:30",
+    "currency": "INR",
+    "id": 189,
+    "number": "WO-000189",
+    "status": "issued",
+    "ticket_id": 189,
+    "vendor_company_id": 3,
+    "visit_ids": [
+      374,
+      375
+    ]
+  },
+  {
+    "amount": 41429.9,
+    "created_at": "2026-05-24T12:00:00+05:30",
+    "currency": "INR",
+    "id": 190,
+    "number": "WO-000190",
+    "status": "issued",
+    "ticket_id": 190,
+    "vendor_company_id": 2,
+    "visit_ids": [
+      376,
+      377
+    ]
+  },
+  {
+    "amount": 21998.19,
+    "created_at": "2026-06-20T18:00:00+05:30",
+    "currency": "INR",
+    "id": 191,
+    "number": "WO-000191",
+    "status": "issued",
+    "ticket_id": 191,
+    "vendor_company_id": 2,
+    "visit_ids": [
+      378,
+      379,
+      380
+    ]
+  },
+  {
+    "amount": 26387.08,
+    "created_at": "2026-05-09T22:00:00+05:30",
+    "currency": "INR",
+    "id": 192,
+    "number": "WO-000192",
+    "status": "closed",
+    "ticket_id": 192,
+    "vendor_company_id": 6,
+    "visit_ids": [
+      381,
+      382
+    ]
+  },
+  {
+    "amount": 38589.51,
+    "created_at": "2026-07-09T01:00:00+05:30",
+    "currency": "INR",
+    "id": 193,
+    "number": "WO-000193",
+    "status": "issued",
+    "ticket_id": 193,
+    "vendor_company_id": 4,
+    "visit_ids": [
+      383,
+      384,
+      385
+    ]
+  },
+  {
+    "amount": 34640.18,
+    "created_at": "2026-05-07T15:00:00+05:30",
+    "currency": "INR",
+    "id": 194,
+    "number": "WO-000194",
+    "status": "issued",
+    "ticket_id": 194,
+    "vendor_company_id": 2,
+    "visit_ids": [
+      386,
+      387
+    ]
+  },
+  {
+    "amount": 14634.89,
+    "created_at": "2026-07-27T08:00:00+05:30",
+    "currency": "INR",
+    "id": 195,
+    "number": "WO-000195",
+    "status": "invoiced",
+    "ticket_id": 195,
+    "vendor_company_id": 5,
+    "visit_ids": [
+      388,
+      389,
+      390
+    ]
+  },
+  {
+    "amount": 46737.83,
+    "created_at": "2026-05-08T06:00:00+05:30",
+    "currency": "INR",
+    "id": 196,
+    "number": "WO-000196",
+    "status": "issued",
+    "ticket_id": 196,
+    "vendor_company_id": 6,
+    "visit_ids": [
+      391,
+      392,
+      393
+    ]
+  },
+  {
+    "amount": 19704.58,
+    "created_at": "2026-05-13T03:00:00+05:30",
+    "currency": "INR",
+    "id": 197,
+    "number": "WO-000197",
+    "status": "closed",
+    "ticket_id": 197,
+    "vendor_company_id": 6,
+    "visit_ids": [
+      394
+    ]
+  },
+  {
+    "amount": 21979.4,
+    "created_at": "2026-07-11T12:00:00+05:30",
+    "currency": "INR",
+    "id": 198,
+    "number": "WO-000198",
+    "status": "issued",
+    "ticket_id": 198,
+    "vendor_company_id": 2,
+    "visit_ids": [
+      395,
+      396,
+      397
+    ]
+  },
+  {
+    "amount": 46772.82,
+    "created_at": "2026-06-04T12:00:00+05:30",
+    "currency": "INR",
+    "id": 199,
+    "number": "WO-000199",
+    "status": "issued",
+    "ticket_id": 199,
+    "vendor_company_id": 5,
+    "visit_ids": [
+      398
+    ]
+  },
+  {
+    "amount": 35792.02,
+    "created_at": "2026-07-16T18:00:00+05:30",
+    "currency": "INR",
+    "id": 200,
+    "number": "WO-000200",
+    "status": "invoiced",
+    "ticket_id": 200,
+    "vendor_company_id": 6,
+    "visit_ids": [
+      399
+    ]
+  }
+]

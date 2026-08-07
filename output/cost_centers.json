@@ -1,0 +1,242 @@
+[
+  {
+    "billing_address_id": 1,
+    "client_id": 1,
+    "code": "CC-0001",
+    "id": 1,
+    "primary_contact_id": null,
+    "project_id": 1
+  },
+  {
+    "billing_address_id": 2,
+    "client_id": 4,
+    "code": "CC-0002",
+    "id": 2,
+    "primary_contact_id": 16,
+    "project_id": 2
+  },
+  {
+    "billing_address_id": 3,
+    "client_id": 1,
+    "code": "CC-0003",
+    "id": 3,
+    "primary_contact_id": 5,
+    "project_id": 3
+  },
+  {
+    "billing_address_id": 4,
+    "client_id": 8,
+    "code": "CC-0004",
+    "id": 4,
+    "primary_contact_id": 21,
+    "project_id": 4
+  },
+  {
+    "billing_address_id": 5,
+    "client_id": 3,
+    "code": "CC-0005",
+    "id": 5,
+    "primary_contact_id": null,
+    "project_id": 5
+  },
+  {
+    "billing_address_id": 6,
+    "client_id": 4,
+    "code": "CC-0006",
+    "id": 6,
+    "primary_contact_id": 4,
+    "project_id": 6
+  },
+  {
+    "billing_address_id": 7,
+    "client_id": 8,
+    "code": "CC-0007",
+    "id": 7,
+    "primary_contact_id": 9,
+    "project_id": 7
+  },
+  {
+    "billing_address_id": 8,
+    "client_id": 8,
+    "code": "CC-0008",
+    "id": 8,
+    "primary_contact_id": 5,
+    "project_id": 8
+  },
+  {
+    "billing_address_id": 9,
+    "client_id": 10,
+    "code": "CC-0009",
+    "id": 9,
+    "primary_contact_id": null,
+    "project_id": 9
+  },
+  {
+    "billing_address_id": 10,
+    "client_id": 5,
+    "code": "CC-0010",
+    "id": 10,
+    "primary_contact_id": 17,
+    "project_id": 10
+  },
+  {
+    "billing_address_id": 11,
+    "client_id": 5,
+    "code": "CC-0011",
+    "id": 11,
+    "primary_contact_id": 19,
+    "project_id": 11
+  },
+  {
+    "billing_address_id": 12,
+    "client_id": 8,
+    "code": "CC-0012",
+    "id": 12,
+    "primary_contact_id": 16,
+    "project_id": 12
+  },
+  {
+    "billing_address_id": 13,
+    "client_id": 9,
+    "code": "CC-0013",
+    "id": 13,
+    "primary_contact_id": 11,
+    "project_id": 13
+  },
+  {
+    "billing_address_id": 14,
+    "client_id": 4,
+    "code": "CC-0014",
+    "id": 14,
+    "primary_contact_id": 14,
+    "project_id": 14
+  },
+  {
+    "billing_address_id": 15,
+    "client_id": 8,
+    "code": "CC-0015",
+    "id": 15,
+    "primary_contact_id": null,
+    "project_id": 15
+  },
+  {
+    "billing_address_id": 16,
+    "client_id": 3,
+    "code": "CC-0016",
+    "id": 16,
+    "primary_contact_id": null,
+    "project_id": 16
+  },
+  {
+    "billing_address_id": 17,
+    "client_id": 10,
+    "code": "CC-0017",
+    "id": 17,
+    "primary_contact_id": null,
+    "project_id": 17
+  },
+  {
+    "billing_address_id": 18,
+    "client_id": 8,
+    "code": "CC-0018",
+    "id": 18,
+    "primary_contact_id": null,
+    "project_id": 18
+  },
+  {
+    "billing_address_id": 19,
+    "client_id": 3,
+    "code": "CC-0019",
+    "id": 19,
+    "primary_contact_id": 9,
+    "project_id": 19
+  },
+  {
+    "billing_address_id": 20,
+    "client_id": 7,
+    "code": "CC-0020",
+    "id": 20,
+    "primary_contact_id": 11,
+    "project_id": 20
+  },
+  {
+    "billing_address_id": 21,
+    "client_id": 6,
+    "code": "CC-0021",
+    "id": 21,
+    "primary_contact_id": null,
+    "project_id": 21
+  },
+  {
+    "billing_address_id": 22,
+    "client_id": 1,
+    "code": "CC-0022",
+    "id": 22,
+    "primary_contact_id": 21,
+    "project_id": 22
+  },
+  {
+    "billing_address_id": 23,
+    "client_id": 2,
+    "code": "CC-0023",
+    "id": 23,
+    "primary_contact_id": null,
+    "project_id": 23
+  },
+  {
+    "billing_address_id": 24,
+    "client_id": 2,
+    "code": "CC-0024",
+    "id": 24,
+    "primary_contact_id": 10,
+    "project_id": 24
+  },
+  {
+    "billing_address_id": 25,
+    "client_id": 1,
+    "code": "CC-0025",
+    "id": 25,
+    "primary_contact_id": 14,
+    "project_id": 25
+  },
+  {
+    "billing_address_id": 26,
+    "client_id": 7,
+    "code": "CC-0026",
+    "id": 26,
+    "primary_contact_id": null,
+    "project_id": 26
+  },
+  {
+    "billing_address_id": 27,
+    "client_id": 2,
+    "code": "CC-0027",
+    "id": 27,
+    "primary_contact_id": null,
+    "project_id": 27
+  },
+  {
+    "billing_address_id": 28,
+    "client_id": 8,
+    "code": "CC-0028",
+    "id": 28,
+    "primary_contact_id": 15,
+    "project_id": 28
+  },
+  {
+    "billing_address_id": 29,
+    "client_id": 5,
+    "code": "CC-0029",
+    "id": 29,
+    "primary_contact_id": 15,
+    "project_id": 29
+  },
+  {
+    "billing_address_id": 30,
+    "client_id": 3,
+    "code": "CC-0030",
+    "id": 30,
+    "primary_contact_id": 12,
+    "project_id": 30
+  }
+]

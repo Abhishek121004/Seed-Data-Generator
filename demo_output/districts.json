@@ -1,0 +1,32 @@
+[
+  {
+    "id": 1,
+    "name": "Nagpur District",
+    "state_id": 1
+  },
+  {
+    "id": 2,
+    "name": "Sambalpur District",
+    "state_id": 1
+  },
+  {
+    "id": 3,
+    "name": "Kolhapur District",
+    "state_id": 2
+  },
+  {
+    "id": 4,
+    "name": "Bongaigaon District",
+    "state_id": 2
+  },
+  {
+    "id": 5,
+    "name": "Gudivada District",
+    "state_id": 3
+  },
+  {
+    "id": 6,
+    "name": "Patna District",
+    "state_id": 3
+  }
+]

@@ -1,0 +1,74 @@
+[
+  {
+    "district_id": 1,
+    "id": 1,
+    "name": "Tiruchirappalli",
+    "pincode": "770487"
+  },
+  {
+    "district_id": 1,
+    "id": 2,
+    "name": "Muzaffarpur",
+    "pincode": "216739"
+  },
+  {
+    "district_id": 2,
+    "id": 3,
+    "name": "Kishanganj",
+    "pincode": "126225"
+  },
+  {
+    "district_id": 2,
+    "id": 4,
+    "name": "Bongaigaon",
+    "pincode": "877572"
+  },
+  {
+    "district_id": 3,
+    "id": 5,
+    "name": "Muzaffarnagar",
+    "pincode": "388389"
+  },
+  {
+    "district_id": 3,
+    "id": 6,
+    "name": "Giridih",
+    "pincode": "356787"
+  },
+  {
+    "district_id": 4,
+    "id": 7,
+    "name": "Chennai",
+    "pincode": "334053"
+  },
+  {
+    "district_id": 4,
+    "id": 8,
+    "name": "Bhusawal",
+    "pincode": "246316"
+  },
+  {
+    "district_id": 5,
+    "id": 9,
+    "name": "Alwar",
+    "pincode": "872246"
+  },
+  {
+    "district_id": 5,
+    "id": 10,
+    "name": "Thrissur",
+    "pincode": "207473"
+  },
+  {
+    "district_id": 6,
+    "id": 11,
+    "name": "Kota",
+    "pincode": "809570"
+  },
+  {
+    "district_id": 6,
+    "id": 12,
+    "name": "Nadiad",
+    "pincode": "876646"
+  }
+]

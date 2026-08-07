@@ -1,0 +1,23 @@
+[
+  {
+    "client_id": 1,
+    "email": "contact1.1722@example.test",
+    "full_name": "Upadhriti Wadhwa",
+    "id": 1,
+    "phone": "+918348740164"
+  },
+  {
+    "client_id": 2,
+    "email": "contact2.3442@example.test",
+    "full_name": "Harini Choudhury",
+    "id": 2,
+    "phone": "+917427868011"
+  },
+  {
+    "client_id": 2,
+    "email": "contact2.1653@example.test",
+    "full_name": "Radhika Dugar",
+    "id": 3,
+    "phone": "+916598262045"
+  }
+]

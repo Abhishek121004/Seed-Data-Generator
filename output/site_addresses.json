@@ -1,0 +1,1202 @@
+[
+  {
+    "address_text": "48/467, Kohli Chowk, Suryapet-639821",
+    "city_id": 13,
+    "id": 1,
+    "ticket_id": 1
+  },
+  {
+    "address_text": "49/972, Yohannan Chowk, Hapur 886753",
+    "city_id": 15,
+    "id": 2,
+    "ticket_id": 2
+  },
+  {
+    "address_text": "27/028, Narula, Gandhidham-870262",
+    "city_id": 12,
+    "id": 3,
+    "ticket_id": 3
+  },
+  {
+    "address_text": "86/578, Biswas Nagar, Tumkur 161172",
+    "city_id": 2,
+    "id": 4,
+    "ticket_id": 4
+  },
+  {
+    "address_text": "69/22, Brar Street, Udupi-792374",
+    "city_id": 15,
+    "id": 5,
+    "ticket_id": 5
+  },
+  {
+    "address_text": "64/743, Subramanian Marg, Patiala 959440",
+    "city_id": 5,
+    "id": 6,
+    "ticket_id": 6
+  },
+  {
+    "address_text": "953, Krishna Ganj, Jalandhar-470952",
+    "city_id": 23,
+    "id": 7,
+    "ticket_id": 7
+  },
+  {
+    "address_text": "474, Contractor Path, Aurangabad 368516",
+    "city_id": 15,
+    "id": 8,
+    "ticket_id": 8
+  },
+  {
+    "address_text": "51/370, Narang, Rajkot 461200",
+    "city_id": 17,
+    "id": 9,
+    "ticket_id": 9
+  },
+  {
+    "address_text": "26/17, Reddy, Patna 377351",
+    "city_id": 5,
+    "id": 10,
+    "ticket_id": 10
+  },
+  {
+    "address_text": "39/005, Dass Ganj, Coimbatore-933529",
+    "city_id": 9,
+    "id": 11,
+    "ticket_id": 11
+  },
+  {
+    "address_text": "H.No. 020, Khanna Path, Pune 402681",
+    "city_id": 23,
+    "id": 12,
+    "ticket_id": 12
+  },
+  {
+    "address_text": "84/700, Ratti Chowk, Moradabad-711592",
+    "city_id": 19,
+    "id": 13,
+    "ticket_id": 13
+  },
+  {
+    "address_text": "89, Chaudhary Marg, Suryapet-673657",
+    "city_id": 16,
+    "id": 14,
+    "ticket_id": 14
+  },
+  {
+    "address_text": "H.No. 116, Pradhan Zila, Miryalaguda-988516",
+    "city_id": 4,
+    "id": 15,
+    "ticket_id": 15
+  },
+  {
+    "address_text": "H.No. 983, Subramaniam Street, Moradabad 851493",
+    "city_id": 24,
+    "id": 16,
+    "ticket_id": 16
+  },
+  {
+    "address_text": "445, Ahuja Path, Asansol 120183",
+    "city_id": 5,
+    "id": 17,
+    "ticket_id": 17
+  },
+  {
+    "address_text": "290, Magar Zila, Khandwa 976438",
+    "city_id": 7,
+    "id": 18,
+    "ticket_id": 18
+  },
+  {
+    "address_text": "690, Jayaraman Nagar, Rajpur Sonarpur 445107",
+    "city_id": 11,
+    "id": 19,
+    "ticket_id": 19
+  },
+  {
+    "address_text": "06/071, Sanghvi Path, Erode 160529",
+    "city_id": 8,
+    "id": 20,
+    "ticket_id": 20
+  },
+  {
+    "address_text": "53/521, Comar Circle, Karnal-231243",
+    "city_id": 21,
+    "id": 21,
+    "ticket_id": 21
+  },
+  {
+    "address_text": "97/99, Mutti Path, Gandhidham-774490",
+    "city_id": 7,
+    "id": 22,
+    "ticket_id": 22
+  },
+  {
+    "address_text": "98, Sengupta Nagar, Pondicherry 820715",
+    "city_id": 18,
+    "id": 23,
+    "ticket_id": 23
+  },
+  {
+    "address_text": "H.No. 54, Rege Marg, Khora -515186",
+    "city_id": 12,
+    "id": 24,
+    "ticket_id": 24
+  },
+  {
+    "address_text": "H.No. 46, Chad Street, Karaikudi 528168",
+    "city_id": 6,
+    "id": 25,
+    "ticket_id": 25
+  },
+  {
+    "address_text": "H.No. 418, Vyas Circle, Naihati-962229",
+    "city_id": 3,
+    "id": 26,
+    "ticket_id": 26
+  },
+  {
+    "address_text": "73/834, Hari Chowk, Aurangabad-746886",
+    "city_id": 21,
+    "id": 27,
+    "ticket_id": 27
+  },
+  {
+    "address_text": "18/14, Dyal Zila, Hospet-613750",
+    "city_id": 15,
+    "id": 28,
+    "ticket_id": 28
+  },
+  {
+    "address_text": "204, Dewan Chowk, Sultan Pur Majra 104328",
+    "city_id": 3,
+    "id": 29,
+    "ticket_id": 29
+  },
+  {
+    "address_text": "80/89, Dhawan Ganj, Haldia 953962",
+    "city_id": 18,
+    "id": 30,
+    "ticket_id": 30
+  },
+  {
+    "address_text": "06, Kulkarni Path, Raurkela Industrial Township 531952",
+    "city_id": 11,
+    "id": 31,
+    "ticket_id": 31
+  },
+  {
+    "address_text": "22/170, Jaggi Road, Kollam-548687",
+    "city_id": 11,
+    "id": 32,
+    "ticket_id": 32
+  },
+  {
+    "address_text": "H.No. 566, Raju Chowk, Gaya 758416",
+    "city_id": 12,
+    "id": 33,
+    "ticket_id": 33
+  },
+  {
+    "address_text": "H.No. 44, Sandhu Chowk, Raiganj 705964",
+    "city_id": 14,
+    "id": 34,
+    "ticket_id": 34
+  },
+  {
+    "address_text": "970, Bhavsar Street, Ambarnath-690927",
+    "city_id": 13,
+    "id": 35,
+    "ticket_id": 35
+  },
+  {
+    "address_text": "H.No. 278, Dalal Marg, Bhilwara-394731",
+    "city_id": 22,
+    "id": 36,
+    "ticket_id": 36
+  },
+  {
+    "address_text": "51/884, Dugar Road, Mirzapur 132370",
+    "city_id": 13,
+    "id": 37,
+    "ticket_id": 37
+  },
+  {
+    "address_text": "78/669, Dass Zila, Srinagar 785289",
+    "city_id": 11,
+    "id": 38,
+    "ticket_id": 38
+  },
+  {
+    "address_text": "H.No. 22, Kar Path, Kadapa 143842",
+    "city_id": 21,
+    "id": 39,
+    "ticket_id": 39
+  },
+  {
+    "address_text": "H.No. 109, Kade Road, Tadipatri 784473",
+    "city_id": 24,
+    "id": 40,
+    "ticket_id": 40
+  },
+  {
+    "address_text": "55/625, Cherian Circle, New Delhi-147321",
+    "city_id": 20,
+    "id": 41,
+    "ticket_id": 41
+  },
+  {
+    "address_text": "H.No. 95, Dutta Ganj, Kottayam-747016",
+    "city_id": 11,
+    "id": 42,
+    "ticket_id": 42
+  },
+  {
+    "address_text": "01/62, Pau Road, Ambarnath-609835",
+    "city_id": 17,
+    "id": 43,
+    "ticket_id": 43
+  },
+  {
+    "address_text": "55, Pau Circle, Davanagere-800025",
+    "city_id": 6,
+    "id": 44,
+    "ticket_id": 44
+  },
+  {
+    "address_text": "88/79, Soman Road, Arrah 169409",
+    "city_id": 17,
+    "id": 45,
+    "ticket_id": 45
+  },
+  {
+    "address_text": "30/913, Sastry Nagar, Gurgaon-636897",
+    "city_id": 21,
+    "id": 46,
+    "ticket_id": 46
+  },
+  {
+    "address_text": "H.No. 27, Oommen Circle, Bilaspur-334843",
+    "city_id": 13,
+    "id": 47,
+    "ticket_id": 47
+  },
+  {
+    "address_text": "H.No. 986, Pai Marg, Ramagundam 415747",
+    "city_id": 4,
+    "id": 48,
+    "ticket_id": 48
+  },
+  {
+    "address_text": "H.No. 833, Chaudhry Nagar, Bathinda-120826",
+    "city_id": 9,
+    "id": 49,
+    "ticket_id": 49
+  },
+  {
+    "address_text": "620, Tandon Marg, Ramagundam-049915",
+    "city_id": 23,
+    "id": 50,
+    "ticket_id": 50
+  },
+  {
+    "address_text": "152, Kurian Chowk, Kanpur-493296",
+    "city_id": 23,
+    "id": 51,
+    "ticket_id": 51
+  },
+  {
+    "address_text": "H.No. 63, Loke Chowk, Barasat-453017",
+    "city_id": 12,
+    "id": 52,
+    "ticket_id": 52
+  },
+  {
+    "address_text": "H.No. 93, Deol Ganj, Jamnagar 956878",
+    "city_id": 2,
+    "id": 53,
+    "ticket_id": 53
+  },
+  {
+    "address_text": "10/88, Yadav Ganj, Dehradun 871397",
+    "city_id": 1,
+    "id": 54,
+    "ticket_id": 54
+  },
+  {
+    "address_text": "08/74, Randhawa Nagar, Delhi-910651",
+    "city_id": 17,
+    "id": 55,
+    "ticket_id": 55
+  },
+  {
+    "address_text": "76, Buch Marg, Karnal-286823",
+    "city_id": 3,
+    "id": 56,
+    "ticket_id": 56
+  },
+  {
+    "address_text": "375, Majumdar Street, Gorakhpur-690331",
+    "city_id": 3,
+    "id": 57,
+    "ticket_id": 57
+  },
+  {
+    "address_text": "73, Kalla Circle, Kolhapur-395995",
+    "city_id": 5,
+    "id": 58,
+    "ticket_id": 58
+  },
+  {
+    "address_text": "68/705, Vohra Marg, Erode 246287",
+    "city_id": 11,
+    "id": 59,
+    "ticket_id": 59
+  },
+  {
+    "address_text": "82/63, Jani Road, Vijayawada-518304",
+    "city_id": 21,
+    "id": 60,
+    "ticket_id": 60
+  },
+  {
+    "address_text": "540, Gupta Ganj, Nangloi Jat-936385",
+    "city_id": 19,
+    "id": 61,
+    "ticket_id": 61
+  },
+  {
+    "address_text": "H.No. 753, Munshi Path, Ranchi-204899",
+    "city_id": 20,
+    "id": 62,
+    "ticket_id": 62
+  },
+  {
+    "address_text": "77, Pandey Street, Kolhapur 280801",
+    "city_id": 23,
+    "id": 63,
+    "ticket_id": 63
+  },
+  {
+    "address_text": "20/387, Bhasin Path, Morbi-088600",
+    "city_id": 20,
+    "id": 64,
+    "ticket_id": 64
+  },
+  {
+    "address_text": "H.No. 823, Vyas Ganj, Raichur-615679",
+    "city_id": 12,
+    "id": 65,
+    "ticket_id": 65
+  },
+  {
+    "address_text": "66, Soni Circle, Bangalore 176591",
+    "city_id": 9,
+    "id": 66,
+    "ticket_id": 66
+  },
+  {
+    "address_text": "503, Dhawan, Solapur 293968",
+    "city_id": 23,
+    "id": 67,
+    "ticket_id": 67
+  },
+  {
+    "address_text": "H.No. 631, Ranganathan Path, Ludhiana 773586",
+    "city_id": 10,
+    "id": 68,
+    "ticket_id": 68
+  },
+  {
+    "address_text": "H.No. 26, Ramachandran Street, Karimnagar 104754",
+    "city_id": 12,
+    "id": 69,
+    "ticket_id": 69
+  },
+  {
+    "address_text": "H.No. 158, Nair Zila, Ahmedabad-661839",
+    "city_id": 15,
+    "id": 70,
+    "ticket_id": 70
+  },
+  {
+    "address_text": "15, Koshy Road, Hindupur-712406",
+    "city_id": 13,
+    "id": 71,
+    "ticket_id": 71
+  },
+  {
+    "address_text": "H.No. 93, Murthy Chowk, Sikar-479356",
+    "city_id": 8,
+    "id": 72,
+    "ticket_id": 72
+  },
+  {
+    "address_text": "73/741, Tata Marg, Avadi-426617",
+    "city_id": 2,
+    "id": 73,
+    "ticket_id": 73
+  },
+  {
+    "address_text": "529, Ratta Nagar, Chinsurah 014388",
+    "city_id": 23,
+    "id": 74,
+    "ticket_id": 74
+  },
+  {
+    "address_text": "14, Chada Marg, Ajmer 457387",
+    "city_id": 5,
+    "id": 75,
+    "ticket_id": 75
+  },
+  {
+    "address_text": "H.No. 12, Varty Ganj, Suryapet 586736",
+    "city_id": 15,
+    "id": 76,
+    "ticket_id": 76
+  },
+  {
+    "address_text": "H.No. 19, Yadav Zila, Ambarnath-371478",
+    "city_id": 10,
+    "id": 77,
+    "ticket_id": 77
+  },
+  {
+    "address_text": "25/134, Goswami Zila, Ajmer 692966",
+    "city_id": 2,
+    "id": 78,
+    "ticket_id": 78
+  },
+  {
+    "address_text": "42, Murty Street, Udupi-507236",
+    "city_id": 19,
+    "id": 79,
+    "ticket_id": 79
+  },
+  {
+    "address_text": "H.No. 04, Yogi Ganj, Gulbarga 978819",
+    "city_id": 11,
+    "id": 80,
+    "ticket_id": 80
+  },
+  {
+    "address_text": "36/13, Bali Road, Firozabad 171339",
+    "city_id": 11,
+    "id": 81,
+    "ticket_id": 81
+  },
+  {
+    "address_text": "49/82, Master Path, Chapra 812604",
+    "city_id": 7,
+    "id": 82,
+    "ticket_id": 82
+  },
+  {
+    "address_text": "29, Sachdeva Road, Bidhannagar-168457",
+    "city_id": 13,
+    "id": 83,
+    "ticket_id": 83
+  },
+  {
+    "address_text": "63/63, Loyal Chowk, Anantapuram 892975",
+    "city_id": 21,
+    "id": 84,
+    "ticket_id": 84
+  },
+  {
+    "address_text": "770, Jain Marg, Barasat 415415",
+    "city_id": 24,
+    "id": 85,
+    "ticket_id": 85
+  },
+  {
+    "address_text": "10/371, Kara Street, Bangalore-516271",
+    "city_id": 2,
+    "id": 86,
+    "ticket_id": 86
+  },
+  {
+    "address_text": "218, Anand, Gandhidham-326973",
+    "city_id": 3,
+    "id": 87,
+    "ticket_id": 87
+  },
+  {
+    "address_text": "H.No. 23, Chad Road, Begusarai 043898",
+    "city_id": 24,
+    "id": 88,
+    "ticket_id": 88
+  },
+  {
+    "address_text": "H.No. 379, Wable Zila, Karimnagar-269658",
+    "city_id": 4,
+    "id": 89,
+    "ticket_id": 89
+  },
+  {
+    "address_text": "H.No. 30, Rao Nagar, Orai 661889",
+    "city_id": 17,
+    "id": 90,
+    "ticket_id": 90
+  },
+  {
+    "address_text": "91, Sarkar Road, Howrah-161799",
+    "city_id": 2,
+    "id": 91,
+    "ticket_id": 91
+  },
+  {
+    "address_text": "758, Lad Circle, Serampore-410564",
+    "city_id": 19,
+    "id": 92,
+    "ticket_id": 92
+  },
+  {
+    "address_text": "419, Kari Zila, Varanasi-307562",
+    "city_id": 18,
+    "id": 93,
+    "ticket_id": 93
+  },
+  {
+    "address_text": "H.No. 36, Madan Path, Aurangabad-180238",
+    "city_id": 20,
+    "id": 94,
+    "ticket_id": 94
+  },
+  {
+    "address_text": "H.No. 18, Anand Chowk, Kollam 949375",
+    "city_id": 2,
+    "id": 95,
+    "ticket_id": 95
+  },
+  {
+    "address_text": "50/50, Mohanty Marg, Tiruppur 670241",
+    "city_id": 14,
+    "id": 96,
+    "ticket_id": 96
+  },
+  {
+    "address_text": "19/182, Borde Marg, Raebareli 344565",
+    "city_id": 7,
+    "id": 97,
+    "ticket_id": 97
+  },
+  {
+    "address_text": "75, Dara Marg, Dhule 474112",
+    "city_id": 18,
+    "id": 98,
+    "ticket_id": 98
+  },
+  {
+    "address_text": "H.No. 68, Mistry Nagar, Akola 678831",
+    "city_id": 9,
+    "id": 99,
+    "ticket_id": 99
+  },
+  {
+    "address_text": "19/941, Bhattacharyya Nagar, Raiganj-151070",
+    "city_id": 11,
+    "id": 100,
+    "ticket_id": 100
+  },
+  {
+    "address_text": "532, Mammen Road, Jalgaon-999347",
+    "city_id": 11,
+    "id": 101,
+    "ticket_id": 101
+  },
+  {
+    "address_text": "57, Sundaram Circle, Buxar-642059",
+    "city_id": 13,
+    "id": 102,
+    "ticket_id": 102
+  },
+  {
+    "address_text": "133, Walla Road, Muzaffarnagar 522395",
+    "city_id": 19,
+    "id": 103,
+    "ticket_id": 103
+  },
+  {
+    "address_text": "42/70, Bhalla Zila, Madanapalle-087059",
+    "city_id": 22,
+    "id": 104,
+    "ticket_id": 104
+  },
+  {
+    "address_text": "921, Patla Circle, Dindigul 915452",
+    "city_id": 15,
+    "id": 105,
+    "ticket_id": 105
+  },
+  {
+    "address_text": "89/539, Radhakrishnan Street, Durg 209690",
+    "city_id": 5,
+    "id": 106,
+    "ticket_id": 106
+  },
+  {
+    "address_text": "513, Nagarajan Path, Hubli–Dharwad 704331",
+    "city_id": 16,
+    "id": 107,
+    "ticket_id": 107
+  },
+  {
+    "address_text": "58, Chaudhuri Marg, Gangtok-271040",
+    "city_id": 17,
+    "id": 108,
+    "ticket_id": 108
+  },
+  {
+    "address_text": "97/06, Saraf Street, Meerut 533688",
+    "city_id": 6,
+    "id": 109,
+    "ticket_id": 109
+  },
+  {
+    "address_text": "H.No. 506, Menon Zila, Kollam-032417",
+    "city_id": 6,
+    "id": 110,
+    "ticket_id": 110
+  },
+  {
+    "address_text": "565, Sehgal Street, Firozabad 743490",
+    "city_id": 17,
+    "id": 111,
+    "ticket_id": 111
+  },
+  {
+    "address_text": "06/86, Soman Circle, Fatehpur-160898",
+    "city_id": 21,
+    "id": 112,
+    "ticket_id": 112
+  },
+  {
+    "address_text": "H.No. 616, Divan Ganj, Imphal-168685",
+    "city_id": 24,
+    "id": 113,
+    "ticket_id": 113
+  },
+  {
+    "address_text": "22, Chaudhry, Phusro-485646",
+    "city_id": 13,
+    "id": 114,
+    "ticket_id": 114
+  },
+  {
+    "address_text": "30/745, Nazareth Nagar, Bijapur-713247",
+    "city_id": 22,
+    "id": 115,
+    "ticket_id": 115
+  },
+  {
+    "address_text": "H.No. 821, Toor Road, Bhavnagar-233030",
+    "city_id": 3,
+    "id": 116,
+    "ticket_id": 116
+  },
+  {
+    "address_text": "H.No. 79, Goel Chowk, Dharmavaram 524140",
+    "city_id": 13,
+    "id": 117,
+    "ticket_id": 117
+  },
+  {
+    "address_text": "68/007, Ghose Street, Rajahmundry-944665",
+    "city_id": 2,
+    "id": 118,
+    "ticket_id": 118
+  },
+  {
+    "address_text": "H.No. 17, Nayar Zila, Anantapur 443283",
+    "city_id": 12,
+    "id": 119,
+    "ticket_id": 119
+  },
+  {
+    "address_text": "74/466, Banik Marg, Tiruvottiyur-875842",
+    "city_id": 18,
+    "id": 120,
+    "ticket_id": 120
+  },
+  {
+    "address_text": "534, Narula Marg, Bhilwara 717099",
+    "city_id": 1,
+    "id": 121,
+    "ticket_id": 121
+  },
+  {
+    "address_text": "H.No. 69, Dhar Chowk, Bokaro-752500",
+    "city_id": 3,
+    "id": 122,
+    "ticket_id": 122
+  },
+  {
+    "address_text": "67, Agrawal Marg, Deoghar-505830",
+    "city_id": 21,
+    "id": 123,
+    "ticket_id": 123
+  },
+  {
+    "address_text": "168, Mohan, Amritsar 447898",
+    "city_id": 8,
+    "id": 124,
+    "ticket_id": 124
+  },
+  {
+    "address_text": "H.No. 332, Bains Ganj, Amravati-064890",
+    "city_id": 23,
+    "id": 125,
+    "ticket_id": 125
+  },
+  {
+    "address_text": "046, Venkatesh Zila, Medininagar-618914",
+    "city_id": 4,
+    "id": 126,
+    "ticket_id": 126
+  },
+  {
+    "address_text": "64/208, Johal Chowk, Bathinda-001197",
+    "city_id": 8,
+    "id": 127,
+    "ticket_id": 127
+  },
+  {
+    "address_text": "44, Bedi Chowk, Akola 455611",
+    "city_id": 5,
+    "id": 128,
+    "ticket_id": 128
+  },
+  {
+    "address_text": "94, Pradhan Zila, South Dumdum 667467",
+    "city_id": 2,
+    "id": 129,
+    "ticket_id": 129
+  },
+  {
+    "address_text": "97, Sarma, Phagwara-590277",
+    "city_id": 22,
+    "id": 130,
+    "ticket_id": 130
+  },
+  {
+    "address_text": "58/891, Kothari Marg, Sri Ganganagar 289002",
+    "city_id": 16,
+    "id": 131,
+    "ticket_id": 131
+  },
+  {
+    "address_text": "66/31, Sawhney Chowk, Hubli–Dharwad 751701",
+    "city_id": 6,
+    "id": 132,
+    "ticket_id": 132
+  },
+  {
+    "address_text": "75/503, Narula Chowk, Bharatpur 113055",
+    "city_id": 7,
+    "id": 133,
+    "ticket_id": 133
+  },
+  {
+    "address_text": "H.No. 93, Dara Ganj, Thrissur-351609",
+    "city_id": 12,
+    "id": 134,
+    "ticket_id": 134
+  },
+  {
+    "address_text": "H.No. 808, Subramanian Marg, Adoni-216995",
+    "city_id": 13,
+    "id": 135,
+    "ticket_id": 135
+  },
+  {
+    "address_text": "269, Mistry Circle, Begusarai 339452",
+    "city_id": 1,
+    "id": 136,
+    "ticket_id": 136
+  },
+  {
+    "address_text": "96/84, Arya Marg, Nagpur 200342",
+    "city_id": 24,
+    "id": 137,
+    "ticket_id": 137
+  },
+  {
+    "address_text": "19, Kapur Circle, Patiala 066658",
+    "city_id": 18,
+    "id": 138,
+    "ticket_id": 138
+  },
+  {
+    "address_text": "59/893, Menon Ganj, Belgaum-228160",
+    "city_id": 22,
+    "id": 139,
+    "ticket_id": 139
+  },
+  {
+    "address_text": "590, Mitra, Chapra-158328",
+    "city_id": 6,
+    "id": 140,
+    "ticket_id": 140
+  },
+  {
+    "address_text": "555, Kamdar Road, Kishanganj 157399",
+    "city_id": 12,
+    "id": 141,
+    "ticket_id": 141
+  },
+  {
+    "address_text": "40/85, Trivedi Circle, Morbi-435811",
+    "city_id": 24,
+    "id": 142,
+    "ticket_id": 142
+  },
+  {
+    "address_text": "61/386, Dube Zila, Jaunpur-011024",
+    "city_id": 14,
+    "id": 143,
+    "ticket_id": 143
+  },
+  {
+    "address_text": "09/19, Bora Nagar, Ambala-449147",
+    "city_id": 10,
+    "id": 144,
+    "ticket_id": 144
+  },
+  {
+    "address_text": "H.No. 50, Dhaliwal Circle, Kalyan-Dombivli 996881",
+    "city_id": 6,
+    "id": 145,
+    "ticket_id": 145
+  },
+  {
+    "address_text": "394, Contractor Ganj, Tezpur-878141",
+    "city_id": 3,
+    "id": 146,
+    "ticket_id": 146
+  },
+  {
+    "address_text": "H.No. 91, Nadkarni Ganj, Hospet-949299",
+    "city_id": 8,
+    "id": 147,
+    "ticket_id": 147
+  },
+  {
+    "address_text": "H.No. 25, Shere Chowk, Secunderabad-781291",
+    "city_id": 13,
+    "id": 148,
+    "ticket_id": 148
+  },
+  {
+    "address_text": "H.No. 809, Ravel, Vadodara 887256",
+    "city_id": 3,
+    "id": 149,
+    "ticket_id": 149
+  },
+  {
+    "address_text": "H.No. 80, Gandhi Ganj, Amroha 299275",
+    "city_id": 24,
+    "id": 150,
+    "ticket_id": 150
+  },
+  {
+    "address_text": "H.No. 385, Singh Marg, Ranchi 518449",
+    "city_id": 11,
+    "id": 151,
+    "ticket_id": 151
+  },
+  {
+    "address_text": "H.No. 57, Ahuja Chowk, Gandhidham-318432",
+    "city_id": 23,
+    "id": 152,
+    "ticket_id": 152
+  },
+  {
+    "address_text": "17/773, Edwin, Lucknow-029922",
+    "city_id": 12,
+    "id": 153,
+    "ticket_id": 153
+  },
+  {
+    "address_text": "H.No. 379, Subramaniam Chowk, Muzaffarnagar 929298",
+    "city_id": 19,
+    "id": 154,
+    "ticket_id": 154
+  },
+  {
+    "address_text": "103, Thaman Circle, Jalgaon-279908",
+    "city_id": 23,
+    "id": 155,
+    "ticket_id": 155
+  },
+  {
+    "address_text": "H.No. 08, Karnik Marg, Eluru-991624",
+    "city_id": 3,
+    "id": 156,
+    "ticket_id": 156
+  },
+  {
+    "address_text": "06/35, Pathak Marg, Bhatpara 944869",
+    "city_id": 5,
+    "id": 157,
+    "ticket_id": 157
+  },
+  {
+    "address_text": "87/44, Padmanabhan, Durgapur-372138",
+    "city_id": 10,
+    "id": 158,
+    "ticket_id": 158
+  },
+  {
+    "address_text": "796, Bhatt Zila, Korba 190669",
+    "city_id": 16,
+    "id": 159,
+    "ticket_id": 159
+  },
+  {
+    "address_text": "H.No. 988, Gara Ganj, Karimnagar 021465",
+    "city_id": 24,
+    "id": 160,
+    "ticket_id": 160
+  },
+  {
+    "address_text": "H.No. 39, Sha Ganj, Ramgarh 426818",
+    "city_id": 22,
+    "id": 161,
+    "ticket_id": 161
+  },
+  {
+    "address_text": "76/973, Shanker Path, Dharmavaram 714163",
+    "city_id": 21,
+    "id": 162,
+    "ticket_id": 162
+  },
+  {
+    "address_text": "H.No. 16, Borra Path, Fatehpur 539423",
+    "city_id": 20,
+    "id": 163,
+    "ticket_id": 163
+  },
+  {
+    "address_text": "H.No. 117, Ahuja, Ongole 957947",
+    "city_id": 13,
+    "id": 164,
+    "ticket_id": 164
+  },
+  {
+    "address_text": "67/80, Palan Circle, Akola-187500",
+    "city_id": 7,
+    "id": 165,
+    "ticket_id": 165
+  },
+  {
+    "address_text": "H.No. 79, Pau Path, Panchkula 365564",
+    "city_id": 13,
+    "id": 166,
+    "ticket_id": 166
+  },
+  {
+    "address_text": "227, Goda Nagar, Panchkula-885744",
+    "city_id": 3,
+    "id": 167,
+    "ticket_id": 167
+  },
+  {
+    "address_text": "54/558, Kurian Circle, Jaipur 159399",
+    "city_id": 23,
+    "id": 168,
+    "ticket_id": 168
+  },
+  {
+    "address_text": "22, Sama Path, Madurai-253554",
+    "city_id": 7,
+    "id": 169,
+    "ticket_id": 169
+  },
+  {
+    "address_text": "202, Krishnamurthy Ganj, Bhagalpur-611178",
+    "city_id": 7,
+    "id": 170,
+    "ticket_id": 170
+  },
+  {
+    "address_text": "H.No. 92, Ramakrishnan Zila, Berhampur 472282",
+    "city_id": 5,
+    "id": 171,
+    "ticket_id": 171
+  },
+  {
+    "address_text": "48/72, Goel Circle, Phusro-884578",
+    "city_id": 24,
+    "id": 172,
+    "ticket_id": 172
+  },
+  {
+    "address_text": "H.No. 47, Anand Circle, Morena 064930",
+    "city_id": 24,
+    "id": 173,
+    "ticket_id": 173
+  },
+  {
+    "address_text": "H.No. 16, Varughese Ganj, Anantapuram-631224",
+    "city_id": 12,
+    "id": 174,
+    "ticket_id": 174
+  },
+  {
+    "address_text": "H.No. 208, Grewal Nagar, Ichalkaranji-270312",
+    "city_id": 3,
+    "id": 175,
+    "ticket_id": 175
+  },
+  {
+    "address_text": "05, Dhingra Zila, Shimoga-187234",
+    "city_id": 1,
+    "id": 176,
+    "ticket_id": 176
+  },
+  {
+    "address_text": "18, Solanki Ganj, Bijapur 208814",
+    "city_id": 19,
+    "id": 177,
+    "ticket_id": 177
+  },
+  {
+    "address_text": "491, Kibe Marg, Kalyan-Dombivli 925132",
+    "city_id": 23,
+    "id": 178,
+    "ticket_id": 178
+  },
+  {
+    "address_text": "35, Palan Circle, Nellore 652407",
+    "city_id": 16,
+    "id": 179,
+    "ticket_id": 179
+  },
+  {
+    "address_text": "82/18, Sengupta Street, Firozabad-708620",
+    "city_id": 11,
+    "id": 180,
+    "ticket_id": 180
+  },
+  {
+    "address_text": "45/65, Char Zila, Varanasi-203173",
+    "city_id": 23,
+    "id": 181,
+    "ticket_id": 181
+  },
+  {
+    "address_text": "H.No. 39, Arya Zila, Pallavaram 705865",
+    "city_id": 17,
+    "id": 182,
+    "ticket_id": 182
+  },
+  {
+    "address_text": "811, Wali Ganj, Jhansi 839288",
+    "city_id": 7,
+    "id": 183,
+    "ticket_id": 183
+  },
+  {
+    "address_text": "868, Dugar Path, Nagercoil 855665",
+    "city_id": 23,
+    "id": 184,
+    "ticket_id": 184
+  },
+  {
+    "address_text": "H.No. 90, Deshmukh Circle, Chennai 335048",
+    "city_id": 24,
+    "id": 185,
+    "ticket_id": 185
+  },
+  {
+    "address_text": "H.No. 41, Ratta, Solapur-727919",
+    "city_id": 15,
+    "id": 186,
+    "ticket_id": 186
+  },
+  {
+    "address_text": "61, Apte Ganj, Meerut 805892",
+    "city_id": 13,
+    "id": 187,
+    "ticket_id": 187
+  },
+  {
+    "address_text": "46, Deo Street, Gwalior 908641",
+    "city_id": 4,
+    "id": 188,
+    "ticket_id": 188
+  },
+  {
+    "address_text": "146, Chakraborty Path, Haridwar-553559",
+    "city_id": 18,
+    "id": 189,
+    "ticket_id": 189
+  },
+  {
+    "address_text": "03, Prakash Ganj, Guwahati-039240",
+    "city_id": 18,
+    "id": 190,
+    "ticket_id": 190
+  },
+  {
+    "address_text": "79/20, Vyas Marg, Rohtak-043940",
+    "city_id": 8,
+    "id": 191,
+    "ticket_id": 191
+  },
+  {
+    "address_text": "63/681, Sundaram Path, Gaya 878003",
+    "city_id": 16,
+    "id": 192,
+    "ticket_id": 192
+  },
+  {
+    "address_text": "46/084, Doshi Ganj, Singrauli 168936",
+    "city_id": 17,
+    "id": 193,
+    "ticket_id": 193
+  },
+  {
+    "address_text": "29/832, Viswanathan Road, Chinsurah-925188",
+    "city_id": 5,
+    "id": 194,
+    "ticket_id": 194
+  },
+  {
+    "address_text": "47, Doshi Road, Aligarh 209949",
+    "city_id": 4,
+    "id": 195,
+    "ticket_id": 195
+  },
+  {
+    "address_text": "677, Gade Street, Kamarhati-604633",
+    "city_id": 16,
+    "id": 196,
+    "ticket_id": 196
+  },
+  {
+    "address_text": "660, Rai, Singrauli 817703",
+    "city_id": 16,
+    "id": 197,
+    "ticket_id": 197
+  },
+  {
+    "address_text": "H.No. 47, Sami Street, Pudukkottai-827718",
+    "city_id": 6,
+    "id": 198,
+    "ticket_id": 198
+  },
+  {
+    "address_text": "H.No. 70, Setty Street, Malda-452111",
+    "city_id": 13,
+    "id": 199,
+    "ticket_id": 199
+  },
+  {
+    "address_text": "592, Dhillon Street, Faridabad-447421",
+    "city_id": 24,
+    "id": 200,
+    "ticket_id": 200
+  }
+]

@@ -1,0 +1,101 @@
+[
+  {
+    "assignee_id": 9,
+    "closed_at": "2026-06-10T06:00:00+05:30",
+    "created_at": "2026-06-09T08:00:00+05:30",
+    "id": 1,
+    "name": "Upload service report",
+    "status": "closed",
+    "ticket_id": 1,
+    "visit_id": 1,
+    "work_order_id": 1
+  },
+  {
+    "assignee_id": 4,
+    "closed_at": null,
+    "created_at": "2026-06-28T11:00:00+05:30",
+    "id": 2,
+    "name": "Upload service report",
+    "status": "open",
+    "ticket_id": 2,
+    "visit_id": 3,
+    "work_order_id": 2
+  },
+  {
+    "assignee_id": 6,
+    "closed_at": null,
+    "created_at": "2026-06-28T12:00:00+05:30",
+    "id": 3,
+    "name": "Confirm customer feedback",
+    "status": "open",
+    "ticket_id": 2,
+    "visit_id": null,
+    "work_order_id": null
+  },
+  {
+    "assignee_id": 3,
+    "closed_at": null,
+    "created_at": "2026-06-09T06:00:00+05:30",
+    "id": 4,
+    "name": "Upload service report",
+    "status": "open",
+    "ticket_id": 3,
+    "visit_id": 6,
+    "work_order_id": 3
+  },
+  {
+    "assignee_id": 9,
+    "closed_at": null,
+    "created_at": "2026-06-09T07:00:00+05:30",
+    "id": 5,
+    "name": "Confirm customer feedback",
+    "status": "open",
+    "ticket_id": 3,
+    "visit_id": null,
+    "work_order_id": null
+  },
+  {
+    "assignee_id": 2,
+    "closed_at": "2026-07-14T09:00:00+05:30",
+    "created_at": "2026-07-13T11:00:00+05:30",
+    "id": 6,
+    "name": "Upload service report",
+    "status": "closed",
+    "ticket_id": 4,
+    "visit_id": 8,
+    "work_order_id": 4
+  },
+  {
+    "assignee_id": 8,
+    "closed_at": null,
+    "created_at": "2026-07-13T12:00:00+05:30",
+    "id": 7,
+    "name": "Confirm customer feedback",
+    "status": "open",
+    "ticket_id": 4,
+    "visit_id": null,
+    "work_order_id": null
+  },
+  {
+    "assignee_id": 7,
+    "closed_at": "2026-05-29T03:00:00+05:30",
+    "created_at": "2026-05-28T05:00:00+05:30",
+    "id": 8,
+    "name": "Upload service report",
+    "status": "closed",
+    "ticket_id": 5,
+    "visit_id": 10,
+    "work_order_id": 5
+  },
+  {
+    "assignee_id": 8,
+    "closed_at": null,
+    "created_at": "2026-05-28T06:00:00+05:30",
+    "id": 9,
+    "name": "Confirm customer feedback",
+    "status": "open",
+    "ticket_id": 5,
+    "visit_id": null,
+    "work_order_id": null
+  }
+]

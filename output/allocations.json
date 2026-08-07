@@ -1,0 +1,1602 @@
+[
+  {
+    "allocated_at": "2026-06-07T13:00:00+05:30",
+    "allocated_by_id": 4,
+    "id": 1,
+    "nature": "primary",
+    "ticket_id": 1,
+    "vendor_company_id": 4
+  },
+  {
+    "allocated_at": "2026-06-29T19:00:00+05:30",
+    "allocated_by_id": 19,
+    "id": 2,
+    "nature": "primary",
+    "ticket_id": 2,
+    "vendor_company_id": 1
+  },
+  {
+    "allocated_at": "2026-07-17T03:00:00+05:30",
+    "allocated_by_id": 13,
+    "id": 3,
+    "nature": "primary",
+    "ticket_id": 3,
+    "vendor_company_id": 1
+  },
+  {
+    "allocated_at": "2026-05-03T21:00:00+05:30",
+    "allocated_by_id": 10,
+    "id": 4,
+    "nature": "primary",
+    "ticket_id": 4,
+    "vendor_company_id": 1
+  },
+  {
+    "allocated_at": "2026-06-26T13:00:00+05:30",
+    "allocated_by_id": 12,
+    "id": 5,
+    "nature": "primary",
+    "ticket_id": 5,
+    "vendor_company_id": 2
+  },
+  {
+    "allocated_at": "2026-07-13T15:00:00+05:30",
+    "allocated_by_id": 12,
+    "id": 6,
+    "nature": "primary",
+    "ticket_id": 6,
+    "vendor_company_id": 1
+  },
+  {
+    "allocated_at": "2026-07-28T12:00:00+05:30",
+    "allocated_by_id": 3,
+    "id": 7,
+    "nature": "primary",
+    "ticket_id": 7,
+    "vendor_company_id": 4
+  },
+  {
+    "allocated_at": "2026-05-23T06:00:00+05:30",
+    "allocated_by_id": 14,
+    "id": 8,
+    "nature": "primary",
+    "ticket_id": 8,
+    "vendor_company_id": 4
+  },
+  {
+    "allocated_at": "2026-06-08T07:00:00+05:30",
+    "allocated_by_id": 5,
+    "id": 9,
+    "nature": "primary",
+    "ticket_id": 9,
+    "vendor_company_id": 2
+  },
+  {
+    "allocated_at": "2026-06-18T05:00:00+05:30",
+    "allocated_by_id": 21,
+    "id": 10,
+    "nature": "primary",
+    "ticket_id": 10,
+    "vendor_company_id": 6
+  },
+  {
+    "allocated_at": "2026-06-05T07:00:00+05:30",
+    "allocated_by_id": 17,
+    "id": 11,
+    "nature": "primary",
+    "ticket_id": 11,
+    "vendor_company_id": 2
+  },
+  {
+    "allocated_at": "2026-06-07T01:00:00+05:30",
+    "allocated_by_id": 17,
+    "id": 12,
+    "nature": "primary",
+    "ticket_id": 12,
+    "vendor_company_id": 2
+  },
+  {
+    "allocated_at": "2026-06-03T07:00:00+05:30",
+    "allocated_by_id": 17,
+    "id": 13,
+    "nature": "primary",
+    "ticket_id": 13,
+    "vendor_company_id": 4
+  },
+  {
+    "allocated_at": "2026-05-13T14:00:00+05:30",
+    "allocated_by_id": 21,
+    "id": 14,
+    "nature": "primary",
+    "ticket_id": 14,
+    "vendor_company_id": 4
+  },
+  {
+    "allocated_at": "2026-06-01T18:00:00+05:30",
+    "allocated_by_id": 3,
+    "id": 15,
+    "nature": "primary",
+    "ticket_id": 15,
+    "vendor_company_id": 3
+  },
+  {
+    "allocated_at": "2026-07-19T06:00:00+05:30",
+    "allocated_by_id": 20,
+    "id": 16,
+    "nature": "primary",
+    "ticket_id": 16,
+    "vendor_company_id": 6
+  },
+  {
+    "allocated_at": "2026-07-04T14:00:00+05:30",
+    "allocated_by_id": 3,
+    "id": 17,
+    "nature": "primary",
+    "ticket_id": 17,
+    "vendor_company_id": 2
+  },
+  {
+    "allocated_at": "2026-06-14T11:00:00+05:30",
+    "allocated_by_id": 5,
+    "id": 18,
+    "nature": "primary",
+    "ticket_id": 18,
+    "vendor_company_id": 5
+  },
+  {
+    "allocated_at": "2026-06-12T19:00:00+05:30",
+    "allocated_by_id": 21,
+    "id": 19,
+    "nature": "primary",
+    "ticket_id": 19,
+    "vendor_company_id": 1
+  },
+  {
+    "allocated_at": "2026-06-26T02:00:00+05:30",
+    "allocated_by_id": 21,
+    "id": 20,
+    "nature": "primary",
+    "ticket_id": 20,
+    "vendor_company_id": 4
+  },
+  {
+    "allocated_at": "2026-05-23T10:00:00+05:30",
+    "allocated_by_id": 12,
+    "id": 21,
+    "nature": "primary",
+    "ticket_id": 21,
+    "vendor_company_id": 4
+  },
+  {
+    "allocated_at": "2026-06-03T19:00:00+05:30",
+    "allocated_by_id": 11,
+    "id": 22,
+    "nature": "primary",
+    "ticket_id": 22,
+    "vendor_company_id": 1
+  },
+  {
+    "allocated_at": "2026-06-07T12:00:00+05:30",
+    "allocated_by_id": 11,
+    "id": 23,
+    "nature": "primary",
+    "ticket_id": 23,
+    "vendor_company_id": 3
+  },
+  {
+    "allocated_at": "2026-06-15T06:00:00+05:30",
+    "allocated_by_id": 15,
+    "id": 24,
+    "nature": "primary",
+    "ticket_id": 24,
+    "vendor_company_id": 3
+  },
+  {
+    "allocated_at": "2026-05-23T13:00:00+05:30",
+    "allocated_by_id": 17,
+    "id": 25,
+    "nature": "primary",
+    "ticket_id": 25,
+    "vendor_company_id": 3
+  },
+  {
+    "allocated_at": "2026-05-20T06:00:00+05:30",
+    "allocated_by_id": 15,
+    "id": 26,
+    "nature": "primary",
+    "ticket_id": 26,
+    "vendor_company_id": 4
+  },
+  {
+    "allocated_at": "2026-07-21T23:00:00+05:30",
+    "allocated_by_id": 20,
+    "id": 27,
+    "nature": "primary",
+    "ticket_id": 27,
+    "vendor_company_id": 3
+  },
+  {
+    "allocated_at": "2026-05-05T18:00:00+05:30",
+    "allocated_by_id": 16,
+    "id": 28,
+    "nature": "primary",
+    "ticket_id": 28,
+    "vendor_company_id": 4
+  },
+  {
+    "allocated_at": "2026-05-29T16:00:00+05:30",
+    "allocated_by_id": 17,
+    "id": 29,
+    "nature": "primary",
+    "ticket_id": 29,
+    "vendor_company_id": 4
+  },
+  {
+    "allocated_at": "2026-06-26T15:00:00+05:30",
+    "allocated_by_id": 5,
+    "id": 30,
+    "nature": "primary",
+    "ticket_id": 30,
+    "vendor_company_id": 3
+  },
+  {
+    "allocated_at": "2026-05-20T19:00:00+05:30",
+    "allocated_by_id": 4,
+    "id": 31,
+    "nature": "primary",
+    "ticket_id": 31,
+    "vendor_company_id": 6
+  },
+  {
+    "allocated_at": "2026-07-25T00:00:00+05:30",
+    "allocated_by_id": 16,
+    "id": 32,
+    "nature": "primary",
+    "ticket_id": 32,
+    "vendor_company_id": 6
+  },
+  {
+    "allocated_at": "2026-06-23T15:00:00+05:30",
+    "allocated_by_id": 9,
+    "id": 33,
+    "nature": "primary",
+    "ticket_id": 33,
+    "vendor_company_id": 5
+  },
+  {
+    "allocated_at": "2026-05-25T10:00:00+05:30",
+    "allocated_by_id": 16,
+    "id": 34,
+    "nature": "primary",
+    "ticket_id": 34,
+    "vendor_company_id": 3
+  },
+  {
+    "allocated_at": "2026-07-28T07:00:00+05:30",
+    "allocated_by_id": 6,
+    "id": 35,
+    "nature": "primary",
+    "ticket_id": 35,
+    "vendor_company_id": 4
+  },
+  {
+    "allocated_at": "2026-07-09T05:00:00+05:30",
+    "allocated_by_id": 6,
+    "id": 36,
+    "nature": "primary",
+    "ticket_id": 36,
+    "vendor_company_id": 2
+  },
+  {
+    "allocated_at": "2026-05-08T07:00:00+05:30",
+    "allocated_by_id": 17,
+    "id": 37,
+    "nature": "primary",
+    "ticket_id": 37,
+    "vendor_company_id": 6
+  },
+  {
+    "allocated_at": "2026-07-17T13:00:00+05:30",
+    "allocated_by_id": 15,
+    "id": 38,
+    "nature": "primary",
+    "ticket_id": 38,
+    "vendor_company_id": 5
+  },
+  {
+    "allocated_at": "2026-07-23T16:00:00+05:30",
+    "allocated_by_id": 21,
+    "id": 39,
+    "nature": "primary",
+    "ticket_id": 39,
+    "vendor_company_id": 6
+  },
+  {
+    "allocated_at": "2026-06-04T02:00:00+05:30",
+    "allocated_by_id": 2,
+    "id": 40,
+    "nature": "primary",
+    "ticket_id": 40,
+    "vendor_company_id": 1
+  },
+  {
+    "allocated_at": "2026-06-24T14:00:00+05:30",
+    "allocated_by_id": 11,
+    "id": 41,
+    "nature": "primary",
+    "ticket_id": 41,
+    "vendor_company_id": 6
+  },
+  {
+    "allocated_at": "2026-05-21T16:00:00+05:30",
+    "allocated_by_id": 3,
+    "id": 42,
+    "nature": "primary",
+    "ticket_id": 42,
+    "vendor_company_id": 6
+  },
+  {
+    "allocated_at": "2026-06-13T06:00:00+05:30",
+    "allocated_by_id": 15,
+    "id": 43,
+    "nature": "primary",
+    "ticket_id": 43,
+    "vendor_company_id": 4
+  },
+  {
+    "allocated_at": "2026-05-30T18:00:00+05:30",
+    "allocated_by_id": 18,
+    "id": 44,
+    "nature": "primary",
+    "ticket_id": 44,
+    "vendor_company_id": 2
+  },
+  {
+    "allocated_at": "2026-07-29T07:00:00+05:30",
+    "allocated_by_id": 14,
+    "id": 45,
+    "nature": "primary",
+    "ticket_id": 45,
+    "vendor_company_id": 6
+  },
+  {
+    "allocated_at": "2026-07-24T13:00:00+05:30",
+    "allocated_by_id": 19,
+    "id": 46,
+    "nature": "primary",
+    "ticket_id": 46,
+    "vendor_company_id": 3
+  },
+  {
+    "allocated_at": "2026-06-11T19:00:00+05:30",
+    "allocated_by_id": 18,
+    "id": 47,
+    "nature": "primary",
+    "ticket_id": 47,
+    "vendor_company_id": 6
+  },
+  {
+    "allocated_at": "2026-06-13T17:00:00+05:30",
+    "allocated_by_id": 1,
+    "id": 48,
+    "nature": "primary",
+    "ticket_id": 48,
+    "vendor_company_id": 1
+  },
+  {
+    "allocated_at": "2026-06-13T10:00:00+05:30",
+    "allocated_by_id": 5,
+    "id": 49,
+    "nature": "primary",
+    "ticket_id": 49,
+    "vendor_company_id": 4
+  },
+  {
+    "allocated_at": "2026-05-09T18:00:00+05:30",
+    "allocated_by_id": 16,
+    "id": 50,
+    "nature": "primary",
+    "ticket_id": 50,
+    "vendor_company_id": 2
+  },
+  {
+    "allocated_at": "2026-06-09T05:00:00+05:30",
+    "allocated_by_id": 13,
+    "id": 51,
+    "nature": "primary",
+    "ticket_id": 51,
+    "vendor_company_id": 4
+  },
+  {
+    "allocated_at": "2026-05-26T23:00:00+05:30",
+    "allocated_by_id": 15,
+    "id": 52,
+    "nature": "primary",
+    "ticket_id": 52,
+    "vendor_company_id": 4
+  },
+  {
+    "allocated_at": "2026-06-05T03:00:00+05:30",
+    "allocated_by_id": 4,
+    "id": 53,
+    "nature": "primary",
+    "ticket_id": 53,
+    "vendor_company_id": 6
+  },
+  {
+    "allocated_at": "2026-05-14T13:00:00+05:30",
+    "allocated_by_id": 7,
+    "id": 54,
+    "nature": "primary",
+    "ticket_id": 54,
+    "vendor_company_id": 6
+  },
+  {
+    "allocated_at": "2026-06-23T04:00:00+05:30",
+    "allocated_by_id": 14,
+    "id": 55,
+    "nature": "primary",
+    "ticket_id": 55,
+    "vendor_company_id": 4
+  },
+  {
+    "allocated_at": "2026-05-30T11:00:00+05:30",
+    "allocated_by_id": 1,
+    "id": 56,
+    "nature": "primary",
+    "ticket_id": 56,
+    "vendor_company_id": 5
+  },
+  {
+    "allocated_at": "2026-05-09T14:00:00+05:30",
+    "allocated_by_id": 4,
+    "id": 57,
+    "nature": "primary",
+    "ticket_id": 57,
+    "vendor_company_id": 4
+  },
+  {
+    "allocated_at": "2026-06-30T16:00:00+05:30",
+    "allocated_by_id": 21,
+    "id": 58,
+    "nature": "primary",
+    "ticket_id": 58,
+    "vendor_company_id": 5
+  },
+  {
+    "allocated_at": "2026-07-04T21:00:00+05:30",
+    "allocated_by_id": 11,
+    "id": 59,
+    "nature": "primary",
+    "ticket_id": 59,
+    "vendor_company_id": 3
+  },
+  {
+    "allocated_at": "2026-05-09T08:00:00+05:30",
+    "allocated_by_id": 4,
+    "id": 60,
+    "nature": "primary",
+    "ticket_id": 60,
+    "vendor_company_id": 1
+  },
+  {
+    "allocated_at": "2026-07-15T00:00:00+05:30",
+    "allocated_by_id": 20,
+    "id": 61,
+    "nature": "primary",
+    "ticket_id": 61,
+    "vendor_company_id": 1
+  },
+  {
+    "allocated_at": "2026-05-16T05:00:00+05:30",
+    "allocated_by_id": 7,
+    "id": 62,
+    "nature": "primary",
+    "ticket_id": 62,
+    "vendor_company_id": 5
+  },
+  {
+    "allocated_at": "2026-07-24T17:00:00+05:30",
+    "allocated_by_id": 14,
+    "id": 63,
+    "nature": "primary",
+    "ticket_id": 63,
+    "vendor_company_id": 5
+  },
+  {
+    "allocated_at": "2026-07-01T19:00:00+05:30",
+    "allocated_by_id": 2,
+    "id": 64,
+    "nature": "primary",
+    "ticket_id": 64,
+    "vendor_company_id": 5
+  },
+  {
+    "allocated_at": "2026-06-29T03:00:00+05:30",
+    "allocated_by_id": 16,
+    "id": 65,
+    "nature": "primary",
+    "ticket_id": 65,
+    "vendor_company_id": 1
+  },
+  {
+    "allocated_at": "2026-05-09T15:00:00+05:30",
+    "allocated_by_id": 19,
+    "id": 66,
+    "nature": "primary",
+    "ticket_id": 66,
+    "vendor_company_id": 1
+  },
+  {
+    "allocated_at": "2026-07-12T10:00:00+05:30",
+    "allocated_by_id": 11,
+    "id": 67,
+    "nature": "primary",
+    "ticket_id": 67,
+    "vendor_company_id": 1
+  },
+  {
+    "allocated_at": "2026-05-17T22:00:00+05:30",
+    "allocated_by_id": 11,
+    "id": 68,
+    "nature": "primary",
+    "ticket_id": 68,
+    "vendor_company_id": 3
+  },
+  {
+    "allocated_at": "2026-05-03T11:00:00+05:30",
+    "allocated_by_id": 17,
+    "id": 69,
+    "nature": "primary",
+    "ticket_id": 69,
+    "vendor_company_id": 4
+  },
+  {
+    "allocated_at": "2026-07-22T20:00:00+05:30",
+    "allocated_by_id": 3,
+    "id": 70,
+    "nature": "primary",
+    "ticket_id": 70,
+    "vendor_company_id": 2
+  },
+  {
+    "allocated_at": "2026-05-29T10:00:00+05:30",
+    "allocated_by_id": 14,
+    "id": 71,
+    "nature": "primary",
+    "ticket_id": 71,
+    "vendor_company_id": 2
+  },
+  {
+    "allocated_at": "2026-06-26T17:00:00+05:30",
+    "allocated_by_id": 4,
+    "id": 72,
+    "nature": "primary",
+    "ticket_id": 72,
+    "vendor_company_id": 2
+  },
+  {
+    "allocated_at": "2026-05-29T09:00:00+05:30",
+    "allocated_by_id": 20,
+    "id": 73,
+    "nature": "primary",
+    "ticket_id": 73,
+    "vendor_company_id": 2
+  },
+  {
+    "allocated_at": "2026-07-11T15:00:00+05:30",
+    "allocated_by_id": 20,
+    "id": 74,
+    "nature": "primary",
+    "ticket_id": 74,
+    "vendor_company_id": 5
+  },
+  {
+    "allocated_at": "2026-05-14T14:00:00+05:30",
+    "allocated_by_id": 3,
+    "id": 75,
+    "nature": "primary",
+    "ticket_id": 75,
+    "vendor_company_id": 3
+  },
+  {
+    "allocated_at": "2026-06-17T11:00:00+05:30",
+    "allocated_by_id": 2,
+    "id": 76,
+    "nature": "primary",
+    "ticket_id": 76,
+    "vendor_company_id": 1
+  },
+  {
+    "allocated_at": "2026-07-07T05:00:00+05:30",
+    "allocated_by_id": 4,
+    "id": 77,
+    "nature": "primary",
+    "ticket_id": 77,
+    "vendor_company_id": 2
+  },
+  {
+    "allocated_at": "2026-06-14T18:00:00+05:30",
+    "allocated_by_id": 15,
+    "id": 78,
+    "nature": "primary",
+    "ticket_id": 78,
+    "vendor_company_id": 3
+  },
+  {
+    "allocated_at": "2026-06-24T06:00:00+05:30",
+    "allocated_by_id": 19,
+    "id": 79,
+    "nature": "primary",
+    "ticket_id": 79,
+    "vendor_company_id": 5
+  },
+  {
+    "allocated_at": "2026-07-23T23:00:00+05:30",
+    "allocated_by_id": 17,
+    "id": 80,
+    "nature": "primary",
+    "ticket_id": 80,
+    "vendor_company_id": 3
+  },
+  {
+    "allocated_at": "2026-05-04T15:00:00+05:30",
+    "allocated_by_id": 10,
+    "id": 81,
+    "nature": "primary",
+    "ticket_id": 81,
+    "vendor_company_id": 3
+  },
+  {
+    "allocated_at": "2026-07-23T13:00:00+05:30",
+    "allocated_by_id": 2,
+    "id": 82,
+    "nature": "primary",
+    "ticket_id": 82,
+    "vendor_company_id": 2
+  },
+  {
+    "allocated_at": "2026-07-12T00:00:00+05:30",
+    "allocated_by_id": 6,
+    "id": 83,
+    "nature": "primary",
+    "ticket_id": 83,
+    "vendor_company_id": 1
+  },
+  {
+    "allocated_at": "2026-05-13T13:00:00+05:30",
+    "allocated_by_id": 20,
+    "id": 84,
+    "nature": "primary",
+    "ticket_id": 84,
+    "vendor_company_id": 5
+  },
+  {
+    "allocated_at": "2026-06-11T01:00:00+05:30",
+    "allocated_by_id": 8,
+    "id": 85,
+    "nature": "primary",
+    "ticket_id": 85,
+    "vendor_company_id": 6
+  },
+  {
+    "allocated_at": "2026-06-15T00:00:00+05:30",
+    "allocated_by_id": 19,
+    "id": 86,
+    "nature": "primary",
+    "ticket_id": 86,
+    "vendor_company_id": 6
+  },
+  {
+    "allocated_at": "2026-07-31T16:00:00+05:30",
+    "allocated_by_id": 20,
+    "id": 87,
+    "nature": "primary",
+    "ticket_id": 87,
+    "vendor_company_id": 2
+  },
+  {
+    "allocated_at": "2026-07-24T02:00:00+05:30",
+    "allocated_by_id": 20,
+    "id": 88,
+    "nature": "primary",
+    "ticket_id": 88,
+    "vendor_company_id": 5
+  },
+  {
+    "allocated_at": "2026-05-10T01:00:00+05:30",
+    "allocated_by_id": 9,
+    "id": 89,
+    "nature": "primary",
+    "ticket_id": 89,
+    "vendor_company_id": 5
+  },
+  {
+    "allocated_at": "2026-07-19T01:00:00+05:30",
+    "allocated_by_id": 12,
+    "id": 90,
+    "nature": "primary",
+    "ticket_id": 90,
+    "vendor_company_id": 2
+  },
+  {
+    "allocated_at": "2026-07-02T04:00:00+05:30",
+    "allocated_by_id": 6,
+    "id": 91,
+    "nature": "primary",
+    "ticket_id": 91,
+    "vendor_company_id": 1
+  },
+  {
+    "allocated_at": "2026-07-11T06:00:00+05:30",
+    "allocated_by_id": 19,
+    "id": 92,
+    "nature": "primary",
+    "ticket_id": 92,
+    "vendor_company_id": 4
+  },
+  {
+    "allocated_at": "2026-06-30T03:00:00+05:30",
+    "allocated_by_id": 2,
+    "id": 93,
+    "nature": "primary",
+    "ticket_id": 93,
+    "vendor_company_id": 5
+  },
+  {
+    "allocated_at": "2026-06-09T19:00:00+05:30",
+    "allocated_by_id": 21,
+    "id": 94,
+    "nature": "primary",
+    "ticket_id": 94,
+    "vendor_company_id": 5
+  },
+  {
+    "allocated_at": "2026-07-03T14:00:00+05:30",
+    "allocated_by_id": 16,
+    "id": 95,
+    "nature": "primary",
+    "ticket_id": 95,
+    "vendor_company_id": 2
+  },
+  {
+    "allocated_at": "2026-06-03T18:00:00+05:30",
+    "allocated_by_id": 16,
+    "id": 96,
+    "nature": "primary",
+    "ticket_id": 96,
+    "vendor_company_id": 5
+  },
+  {
+    "allocated_at": "2026-05-28T04:00:00+05:30",
+    "allocated_by_id": 20,
+    "id": 97,
+    "nature": "primary",
+    "ticket_id": 97,
+    "vendor_company_id": 2
+  },
+  {
+    "allocated_at": "2026-06-16T19:00:00+05:30",
+    "allocated_by_id": 8,
+    "id": 98,
+    "nature": "primary",
+    "ticket_id": 98,
+    "vendor_company_id": 4
+  },
+  {
+    "allocated_at": "2026-05-28T03:00:00+05:30",
+    "allocated_by_id": 6,
+    "id": 99,
+    "nature": "primary",
+    "ticket_id": 99,
+    "vendor_company_id": 2
+  },
+  {
+    "allocated_at": "2026-07-20T11:00:00+05:30",
+    "allocated_by_id": 10,
+    "id": 100,
+    "nature": "primary",
+    "ticket_id": 100,
+    "vendor_company_id": 3
+  },
+  {
+    "allocated_at": "2026-05-30T13:00:00+05:30",
+    "allocated_by_id": 3,
+    "id": 101,
+    "nature": "primary",
+    "ticket_id": 101,
+    "vendor_company_id": 5
+  },
+  {
+    "allocated_at": "2026-06-28T04:00:00+05:30",
+    "allocated_by_id": 11,
+    "id": 102,
+    "nature": "primary",
+    "ticket_id": 102,
+    "vendor_company_id": 4
+  },
+  {
+    "allocated_at": "2026-05-10T22:00:00+05:30",
+    "allocated_by_id": 13,
+    "id": 103,
+    "nature": "primary",
+    "ticket_id": 103,
+    "vendor_company_id": 5
+  },
+  {
+    "allocated_at": "2026-06-29T12:00:00+05:30",
+    "allocated_by_id": 8,
+    "id": 104,
+    "nature": "primary",
+    "ticket_id": 104,
+    "vendor_company_id": 6
+  },
+  {
+    "allocated_at": "2026-05-10T13:00:00+05:30",
+    "allocated_by_id": 12,
+    "id": 105,
+    "nature": "primary",
+    "ticket_id": 105,
+    "vendor_company_id": 4
+  },
+  {
+    "allocated_at": "2026-06-10T14:00:00+05:30",
+    "allocated_by_id": 13,
+    "id": 106,
+    "nature": "primary",
+    "ticket_id": 106,
+    "vendor_company_id": 3
+  },
+  {
+    "allocated_at": "2026-05-08T16:00:00+05:30",
+    "allocated_by_id": 3,
+    "id": 107,
+    "nature": "primary",
+    "ticket_id": 107,
+    "vendor_company_id": 2
+  },
+  {
+    "allocated_at": "2026-06-13T12:00:00+05:30",
+    "allocated_by_id": 13,
+    "id": 108,
+    "nature": "primary",
+    "ticket_id": 108,
+    "vendor_company_id": 3
+  },
+  {
+    "allocated_at": "2026-05-06T03:00:00+05:30",
+    "allocated_by_id": 14,
+    "id": 109,
+    "nature": "primary",
+    "ticket_id": 109,
+    "vendor_company_id": 6
+  },
+  {
+    "allocated_at": "2026-05-09T01:00:00+05:30",
+    "allocated_by_id": 14,
+    "id": 110,
+    "nature": "primary",
+    "ticket_id": 110,
+    "vendor_company_id": 2
+  },
+  {
+    "allocated_at": "2026-07-19T23:00:00+05:30",
+    "allocated_by_id": 3,
+    "id": 111,
+    "nature": "primary",
+    "ticket_id": 111,
+    "vendor_company_id": 1
+  },
+  {
+    "allocated_at": "2026-07-31T15:00:00+05:30",
+    "allocated_by_id": 11,
+    "id": 112,
+    "nature": "primary",
+    "ticket_id": 112,
+    "vendor_company_id": 2
+  },
+  {
+    "allocated_at": "2026-06-30T04:00:00+05:30",
+    "allocated_by_id": 15,
+    "id": 113,
+    "nature": "primary",
+    "ticket_id": 113,
+    "vendor_company_id": 2
+  },
+  {
+    "allocated_at": "2026-07-03T21:00:00+05:30",
+    "allocated_by_id": 21,
+    "id": 114,
+    "nature": "primary",
+    "ticket_id": 114,
+    "vendor_company_id": 5
+  },
+  {
+    "allocated_at": "2026-07-12T03:00:00+05:30",
+    "allocated_by_id": 13,
+    "id": 115,
+    "nature": "primary",
+    "ticket_id": 115,
+    "vendor_company_id": 4
+  },
+  {
+    "allocated_at": "2026-07-09T14:00:00+05:30",
+    "allocated_by_id": 10,
+    "id": 116,
+    "nature": "primary",
+    "ticket_id": 116,
+    "vendor_company_id": 5
+  },
+  {
+    "allocated_at": "2026-05-26T04:00:00+05:30",
+    "allocated_by_id": 11,
+    "id": 117,
+    "nature": "primary",
+    "ticket_id": 117,
+    "vendor_company_id": 6
+  },
+  {
+    "allocated_at": "2026-05-08T22:00:00+05:30",
+    "allocated_by_id": 12,
+    "id": 118,
+    "nature": "primary",
+    "ticket_id": 118,
+    "vendor_company_id": 4
+  },
+  {
+    "allocated_at": "2026-05-06T12:00:00+05:30",
+    "allocated_by_id": 9,
+    "id": 119,
+    "nature": "primary",
+    "ticket_id": 119,
+    "vendor_company_id": 5
+  },
+  {
+    "allocated_at": "2026-05-19T13:00:00+05:30",
+    "allocated_by_id": 13,
+    "id": 120,
+    "nature": "primary",
+    "ticket_id": 120,
+    "vendor_company_id": 4
+  },
+  {
+    "allocated_at": "2026-06-15T16:00:00+05:30",
+    "allocated_by_id": 4,
+    "id": 121,
+    "nature": "primary",
+    "ticket_id": 121,
+    "vendor_company_id": 4
+  },
+  {
+    "allocated_at": "2026-06-18T11:00:00+05:30",
+    "allocated_by_id": 11,
+    "id": 122,
+    "nature": "primary",
+    "ticket_id": 122,
+    "vendor_company_id": 2
+  },
+  {
+    "allocated_at": "2026-07-21T16:00:00+05:30",
+    "allocated_by_id": 10,
+    "id": 123,
+    "nature": "primary",
+    "ticket_id": 123,
+    "vendor_company_id": 4
+  },
+  {
+    "allocated_at": "2026-05-20T13:00:00+05:30",
+    "allocated_by_id": 15,
+    "id": 124,
+    "nature": "primary",
+    "ticket_id": 124,
+    "vendor_company_id": 1
+  },
+  {
+    "allocated_at": "2026-05-21T16:00:00+05:30",
+    "allocated_by_id": 21,
+    "id": 125,
+    "nature": "primary",
+    "ticket_id": 125,
+    "vendor_company_id": 6
+  },
+  {
+    "allocated_at": "2026-07-07T09:00:00+05:30",
+    "allocated_by_id": 9,
+    "id": 126,
+    "nature": "primary",
+    "ticket_id": 126,
+    "vendor_company_id": 3
+  },
+  {
+    "allocated_at": "2026-07-30T15:00:00+05:30",
+    "allocated_by_id": 2,
+    "id": 127,
+    "nature": "primary",
+    "ticket_id": 127,
+    "vendor_company_id": 6
+  },
+  {
+    "allocated_at": "2026-06-30T17:00:00+05:30",
+    "allocated_by_id": 3,
+    "id": 128,
+    "nature": "primary",
+    "ticket_id": 128,
+    "vendor_company_id": 3
+  },
+  {
+    "allocated_at": "2026-05-04T21:00:00+05:30",
+    "allocated_by_id": 15,
+    "id": 129,
+    "nature": "primary",
+    "ticket_id": 129,
+    "vendor_company_id": 4
+  },
+  {
+    "allocated_at": "2026-07-23T06:00:00+05:30",
+    "allocated_by_id": 18,
+    "id": 130,
+    "nature": "primary",
+    "ticket_id": 130,
+    "vendor_company_id": 4
+  },
+  {
+    "allocated_at": "2026-07-26T01:00:00+05:30",
+    "allocated_by_id": 15,
+    "id": 131,
+    "nature": "primary",
+    "ticket_id": 131,
+    "vendor_company_id": 1
+  },
+  {
+    "allocated_at": "2026-05-11T17:00:00+05:30",
+    "allocated_by_id": 18,
+    "id": 132,
+    "nature": "primary",
+    "ticket_id": 132,
+    "vendor_company_id": 2
+  },
+  {
+    "allocated_at": "2026-07-15T04:00:00+05:30",
+    "allocated_by_id": 1,
+    "id": 133,
+    "nature": "primary",
+    "ticket_id": 133,
+    "vendor_company_id": 3
+  },
+  {
+    "allocated_at": "2026-05-19T07:00:00+05:30",
+    "allocated_by_id": 14,
+    "id": 134,
+    "nature": "primary",
+    "ticket_id": 134,
+    "vendor_company_id": 4
+  },
+  {
+    "allocated_at": "2026-07-26T00:00:00+05:30",
+    "allocated_by_id": 14,
+    "id": 135,
+    "nature": "primary",
+    "ticket_id": 135,
+    "vendor_company_id": 5
+  },
+  {
+    "allocated_at": "2026-07-07T16:00:00+05:30",
+    "allocated_by_id": 6,
+    "id": 136,
+    "nature": "primary",
+    "ticket_id": 136,
+    "vendor_company_id": 3
+  },
+  {
+    "allocated_at": "2026-07-04T19:00:00+05:30",
+    "allocated_by_id": 1,
+    "id": 137,
+    "nature": "primary",
+    "ticket_id": 137,
+    "vendor_company_id": 2
+  },
+  {
+    "allocated_at": "2026-06-12T13:00:00+05:30",
+    "allocated_by_id": 6,
+    "id": 138,
+    "nature": "primary",
+    "ticket_id": 138,
+    "vendor_company_id": 1
+  },
+  {
+    "allocated_at": "2026-06-12T05:00:00+05:30",
+    "allocated_by_id": 21,
+    "id": 139,
+    "nature": "primary",
+    "ticket_id": 139,
+    "vendor_company_id": 5
+  },
+  {
+    "allocated_at": "2026-07-14T07:00:00+05:30",
+    "allocated_by_id": 5,
+    "id": 140,
+    "nature": "primary",
+    "ticket_id": 140,
+    "vendor_company_id": 3
+  },
+  {
+    "allocated_at": "2026-07-21T18:00:00+05:30",
+    "allocated_by_id": 13,
+    "id": 141,
+    "nature": "primary",
+    "ticket_id": 141,
+    "vendor_company_id": 2
+  },
+  {
+    "allocated_at": "2026-06-30T16:00:00+05:30",
+    "allocated_by_id": 11,
+    "id": 142,
+    "nature": "primary",
+    "ticket_id": 142,
+    "vendor_company_id": 4
+  },
+  {
+    "allocated_at": "2026-05-28T09:00:00+05:30",
+    "allocated_by_id": 15,
+    "id": 143,
+    "nature": "primary",
+    "ticket_id": 143,
+    "vendor_company_id": 3
+  },
+  {
+    "allocated_at": "2026-07-09T13:00:00+05:30",
+    "allocated_by_id": 6,
+    "id": 144,
+    "nature": "primary",
+    "ticket_id": 144,
+    "vendor_company_id": 6
+  },
+  {
+    "allocated_at": "2026-08-01T03:00:00+05:30",
+    "allocated_by_id": 2,
+    "id": 145,
+    "nature": "primary",
+    "ticket_id": 145,
+    "vendor_company_id": 2
+  },
+  {
+    "allocated_at": "2026-06-14T08:00:00+05:30",
+    "allocated_by_id": 16,
+    "id": 146,
+    "nature": "primary",
+    "ticket_id": 146,
+    "vendor_company_id": 3
+  },
+  {
+    "allocated_at": "2026-05-14T09:00:00+05:30",
+    "allocated_by_id": 10,
+    "id": 147,
+    "nature": "primary",
+    "ticket_id": 147,
+    "vendor_company_id": 6
+  },
+  {
+    "allocated_at": "2026-06-21T05:00:00+05:30",
+    "allocated_by_id": 19,
+    "id": 148,
+    "nature": "primary",
+    "ticket_id": 148,
+    "vendor_company_id": 6
+  },
+  {
+    "allocated_at": "2026-06-21T02:00:00+05:30",
+    "allocated_by_id": 9,
+    "id": 149,
+    "nature": "primary",
+    "ticket_id": 149,
+    "vendor_company_id": 2
+  },
+  {
+    "allocated_at": "2026-05-28T18:00:00+05:30",
+    "allocated_by_id": 10,
+    "id": 150,
+    "nature": "primary",
+    "ticket_id": 150,
+    "vendor_company_id": 5
+  },
+  {
+    "allocated_at": "2026-07-06T15:00:00+05:30",
+    "allocated_by_id": 4,
+    "id": 151,
+    "nature": "primary",
+    "ticket_id": 151,
+    "vendor_company_id": 4
+  },
+  {
+    "allocated_at": "2026-07-19T00:00:00+05:30",
+    "allocated_by_id": 19,
+    "id": 152,
+    "nature": "primary",
+    "ticket_id": 152,
+    "vendor_company_id": 5
+  },
+  {
+    "allocated_at": "2026-06-20T08:00:00+05:30",
+    "allocated_by_id": 15,
+    "id": 153,
+    "nature": "primary",
+    "ticket_id": 153,
+    "vendor_company_id": 4
+  },
+  {
+    "allocated_at": "2026-05-08T19:00:00+05:30",
+    "allocated_by_id": 15,
+    "id": 154,
+    "nature": "primary",
+    "ticket_id": 154,
+    "vendor_company_id": 5
+  },
+  {
+    "allocated_at": "2026-06-05T01:00:00+05:30",
+    "allocated_by_id": 3,
+    "id": 155,
+    "nature": "primary",
+    "ticket_id": 155,
+    "vendor_company_id": 3
+  },
+  {
+    "allocated_at": "2026-06-15T08:00:00+05:30",
+    "allocated_by_id": 1,
+    "id": 156,
+    "nature": "primary",
+    "ticket_id": 156,
+    "vendor_company_id": 6
+  },
+  {
+    "allocated_at": "2026-06-14T17:00:00+05:30",
+    "allocated_by_id": 17,
+    "id": 157,
+    "nature": "primary",
+    "ticket_id": 157,
+    "vendor_company_id": 6
+  },
+  {
+    "allocated_at": "2026-06-02T03:00:00+05:30",
+    "allocated_by_id": 2,
+    "id": 158,
+    "nature": "primary",
+    "ticket_id": 158,
+    "vendor_company_id": 2
+  },
+  {
+    "allocated_at": "2026-06-04T06:00:00+05:30",
+    "allocated_by_id": 17,
+    "id": 159,
+    "nature": "primary",
+    "ticket_id": 159,
+    "vendor_company_id": 2
+  },
+  {
+    "allocated_at": "2026-07-25T20:00:00+05:30",
+    "allocated_by_id": 8,
+    "id": 160,
+    "nature": "primary",
+    "ticket_id": 160,
+    "vendor_company_id": 5
+  },
+  {
+    "allocated_at": "2026-07-20T05:00:00+05:30",
+    "allocated_by_id": 8,
+    "id": 161,
+    "nature": "primary",
+    "ticket_id": 161,
+    "vendor_company_id": 6
+  },
+  {
+    "allocated_at": "2026-07-28T11:00:00+05:30",
+    "allocated_by_id": 4,
+    "id": 162,
+    "nature": "primary",
+    "ticket_id": 162,
+    "vendor_company_id": 1
+  },
+  {
+    "allocated_at": "2026-06-29T02:00:00+05:30",
+    "allocated_by_id": 6,
+    "id": 163,
+    "nature": "primary",
+    "ticket_id": 163,
+    "vendor_company_id": 4
+  },
+  {
+    "allocated_at": "2026-08-01T02:00:00+05:30",
+    "allocated_by_id": 1,
+    "id": 164,
+    "nature": "primary",
+    "ticket_id": 164,
+    "vendor_company_id": 5
+  },
+  {
+    "allocated_at": "2026-06-18T10:00:00+05:30",
+    "allocated_by_id": 18,
+    "id": 165,
+    "nature": "primary",
+    "ticket_id": 165,
+    "vendor_company_id": 2
+  },
+  {
+    "allocated_at": "2026-06-05T06:00:00+05:30",
+    "allocated_by_id": 7,
+    "id": 166,
+    "nature": "primary",
+    "ticket_id": 166,
+    "vendor_company_id": 1
+  },
+  {
+    "allocated_at": "2026-07-23T19:00:00+05:30",
+    "allocated_by_id": 14,
+    "id": 167,
+    "nature": "primary",
+    "ticket_id": 167,
+    "vendor_company_id": 2
+  },
+  {
+    "allocated_at": "2026-07-29T12:00:00+05:30",
+    "allocated_by_id": 19,
+    "id": 168,
+    "nature": "primary",
+    "ticket_id": 168,
+    "vendor_company_id": 6
+  },
+  {
+    "allocated_at": "2026-05-23T23:00:00+05:30",
+    "allocated_by_id": 5,
+    "id": 169,
+    "nature": "primary",
+    "ticket_id": 169,
+    "vendor_company_id": 1
+  },
+  {
+    "allocated_at": "2026-07-22T14:00:00+05:30",
+    "allocated_by_id": 11,
+    "id": 170,
+    "nature": "primary",
+    "ticket_id": 170,
+    "vendor_company_id": 6
+  },
+  {
+    "allocated_at": "2026-07-07T06:00:00+05:30",
+    "allocated_by_id": 19,
+    "id": 171,
+    "nature": "primary",
+    "ticket_id": 171,
+    "vendor_company_id": 1
+  },
+  {
+    "allocated_at": "2026-05-30T14:00:00+05:30",
+    "allocated_by_id": 8,
+    "id": 172,
+    "nature": "primary",
+    "ticket_id": 172,
+    "vendor_company_id": 4
+  },
+  {
+    "allocated_at": "2026-07-29T17:00:00+05:30",
+    "allocated_by_id": 1,
+    "id": 173,
+    "nature": "primary",
+    "ticket_id": 173,
+    "vendor_company_id": 5
+  },
+  {
+    "allocated_at": "2026-06-12T22:00:00+05:30",
+    "allocated_by_id": 21,
+    "id": 174,
+    "nature": "primary",
+    "ticket_id": 174,
+    "vendor_company_id": 2
+  },
+  {
+    "allocated_at": "2026-05-13T10:00:00+05:30",
+    "allocated_by_id": 13,
+    "id": 175,
+    "nature": "primary",
+    "ticket_id": 175,
+    "vendor_company_id": 1
+  },
+  {
+    "allocated_at": "2026-05-11T06:00:00+05:30",
+    "allocated_by_id": 17,
+    "id": 176,
+    "nature": "primary",
+    "ticket_id": 176,
+    "vendor_company_id": 2
+  },
+  {
+    "allocated_at": "2026-05-04T16:00:00+05:30",
+    "allocated_by_id": 15,
+    "id": 177,
+    "nature": "primary",
+    "ticket_id": 177,
+    "vendor_company_id": 2
+  },
+  {
+    "allocated_at": "2026-07-31T11:00:00+05:30",
+    "allocated_by_id": 16,
+    "id": 178,
+    "nature": "primary",
+    "ticket_id": 178,
+    "vendor_company_id": 3
+  },
+  {
+    "allocated_at": "2026-06-05T04:00:00+05:30",
+    "allocated_by_id": 20,
+    "id": 179,
+    "nature": "primary",
+    "ticket_id": 179,
+    "vendor_company_id": 3
+  },
+  {
+    "allocated_at": "2026-05-16T21:00:00+05:30",
+    "allocated_by_id": 19,
+    "id": 180,
+    "nature": "primary",
+    "ticket_id": 180,
+    "vendor_company_id": 1
+  },
+  {
+    "allocated_at": "2026-05-11T03:00:00+05:30",
+    "allocated_by_id": 8,
+    "id": 181,
+    "nature": "primary",
+    "ticket_id": 181,
+    "vendor_company_id": 6
+  },
+  {
+    "allocated_at": "2026-06-16T15:00:00+05:30",
+    "allocated_by_id": 21,
+    "id": 182,
+    "nature": "primary",
+    "ticket_id": 182,
+    "vendor_company_id": 2
+  },
+  {
+    "allocated_at": "2026-05-30T11:00:00+05:30",
+    "allocated_by_id": 17,
+    "id": 183,
+    "nature": "primary",
+    "ticket_id": 183,
+    "vendor_company_id": 2
+  },
+  {
+    "allocated_at": "2026-07-15T07:00:00+05:30",
+    "allocated_by_id": 3,
+    "id": 184,
+    "nature": "primary",
+    "ticket_id": 184,
+    "vendor_company_id": 1
+  },
+  {
+    "allocated_at": "2026-07-06T19:00:00+05:30",
+    "allocated_by_id": 19,
+    "id": 185,
+    "nature": "primary",
+    "ticket_id": 185,
+    "vendor_company_id": 3
+  },
+  {
+    "allocated_at": "2026-07-02T08:00:00+05:30",
+    "allocated_by_id": 17,
+    "id": 186,
+    "nature": "primary",
+    "ticket_id": 186,
+    "vendor_company_id": 1
+  },
+  {
+    "allocated_at": "2026-05-08T12:00:00+05:30",
+    "allocated_by_id": 19,
+    "id": 187,
+    "nature": "primary",
+    "ticket_id": 187,
+    "vendor_company_id": 6
+  },
+  {
+    "allocated_at": "2026-06-10T18:00:00+05:30",
+    "allocated_by_id": 16,
+    "id": 188,
+    "nature": "primary",
+    "ticket_id": 188,
+    "vendor_company_id": 3
+  },
+  {
+    "allocated_at": "2026-06-24T20:00:00+05:30",
+    "allocated_by_id": 18,
+    "id": 189,
+    "nature": "primary",
+    "ticket_id": 189,
+    "vendor_company_id": 3
+  },
+  {
+    "allocated_at": "2026-05-22T03:00:00+05:30",
+    "allocated_by_id": 17,
+    "id": 190,
+    "nature": "primary",
+    "ticket_id": 190,
+    "vendor_company_id": 2
+  },
+  {
+    "allocated_at": "2026-06-16T13:00:00+05:30",
+    "allocated_by_id": 21,
+    "id": 191,
+    "nature": "primary",
+    "ticket_id": 191,
+    "vendor_company_id": 2
+  },
+  {
+    "allocated_at": "2026-05-07T22:00:00+05:30",
+    "allocated_by_id": 3,
+    "id": 192,
+    "nature": "primary",
+    "ticket_id": 192,
+    "vendor_company_id": 6
+  },
+  {
+    "allocated_at": "2026-07-06T09:00:00+05:30",
+    "allocated_by_id": 18,
+    "id": 193,
+    "nature": "primary",
+    "ticket_id": 193,
+    "vendor_company_id": 4
+  },
+  {
+    "allocated_at": "2026-05-05T14:00:00+05:30",
+    "allocated_by_id": 1,
+    "id": 194,
+    "nature": "primary",
+    "ticket_id": 194,
+    "vendor_company_id": 2
+  },
+  {
+    "allocated_at": "2026-07-23T07:00:00+05:30",
+    "allocated_by_id": 17,
+    "id": 195,
+    "nature": "primary",
+    "ticket_id": 195,
+    "vendor_company_id": 5
+  },
+  {
+    "allocated_at": "2026-05-05T16:00:00+05:30",
+    "allocated_by_id": 12,
+    "id": 196,
+    "nature": "primary",
+    "ticket_id": 196,
+    "vendor_company_id": 6
+  },
+  {
+    "allocated_at": "2026-05-10T14:00:00+05:30",
+    "allocated_by_id": 14,
+    "id": 197,
+    "nature": "primary",
+    "ticket_id": 197,
+    "vendor_company_id": 6
+  },
+  {
+    "allocated_at": "2026-07-07T04:00:00+05:30",
+    "allocated_by_id": 17,
+    "id": 198,
+    "nature": "primary",
+    "ticket_id": 198,
+    "vendor_company_id": 2
+  },
+  {
+    "allocated_at": "2026-06-03T02:00:00+05:30",
+    "allocated_by_id": 14,
+    "id": 199,
+    "nature": "primary",
+    "ticket_id": 199,
+    "vendor_company_id": 5
+  },
+  {
+    "allocated_at": "2026-07-15T17:00:00+05:30",
+    "allocated_by_id": 7,
+    "id": 200,
+    "nature": "primary",
+    "ticket_id": 200,
+    "vendor_company_id": 6
+  }
+]

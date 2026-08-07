@@ -1,0 +1,32 @@
+[
+  {
+    "country_id": 1,
+    "id": 1,
+    "name": "Karnataka"
+  },
+  {
+    "country_id": 1,
+    "id": 2,
+    "name": "Maharashtra"
+  },
+  {
+    "country_id": 1,
+    "id": 3,
+    "name": "Tamil Nadu"
+  },
+  {
+    "country_id": 1,
+    "id": 4,
+    "name": "Telangana"
+  },
+  {
+    "country_id": 1,
+    "id": 5,
+    "name": "Delhi"
+  },
+  {
+    "country_id": 1,
+    "id": 6,
+    "name": "Haryana"
+  }
+]

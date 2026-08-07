@@ -1,0 +1,170 @@
+[
+  {
+    "email": "user0.4257@example.test",
+    "full_name": "Nihal Shere",
+    "id": 1,
+    "phone": "+919379402654",
+    "role_id": 2,
+    "status": "active"
+  },
+  {
+    "email": "user1.6514@example.test",
+    "full_name": "Anamika Kanda",
+    "id": 2,
+    "phone": "+916161559407",
+    "role_id": 1,
+    "status": "inactive"
+  },
+  {
+    "email": "user2.7201@example.test",
+    "full_name": "Daksh Karnik",
+    "id": 3,
+    "phone": "+916849593103",
+    "role_id": 3,
+    "status": "inactive"
+  },
+  {
+    "email": "user3.4814@example.test",
+    "full_name": "Diya Rattan",
+    "id": 4,
+    "phone": "+916647525534",
+    "role_id": 1,
+    "status": "active"
+  },
+  {
+    "email": "user4.3803@example.test",
+    "full_name": "Dominic Kakar",
+    "id": 5,
+    "phone": "+917276483503",
+    "role_id": 1,
+    "status": "pending"
+  },
+  {
+    "email": "user5.7572@example.test",
+    "full_name": "Simon Tata",
+    "id": 6,
+    "phone": "+918139537672",
+    "role_id": 3,
+    "status": "active"
+  },
+  {
+    "email": "user6.9830@example.test",
+    "full_name": "Tara Dhar",
+    "id": 7,
+    "phone": "+918969653287",
+    "role_id": 1,
+    "status": "pending"
+  },
+  {
+    "email": "user7.2796@example.test",
+    "full_name": "Liam Koshy",
+    "id": 8,
+    "phone": "+917269166978",
+    "role_id": 3,
+    "status": "inactive"
+  },
+  {
+    "email": "user8.1188@example.test",
+    "full_name": "Priya Rastogi",
+    "id": 9,
+    "phone": "+916845146270",
+    "role_id": 3,
+    "status": "inactive"
+  },
+  {
+    "email": "user9.3927@example.test",
+    "full_name": "Theodore Devi",
+    "id": 10,
+    "phone": "+916489325288",
+    "role_id": 1,
+    "status": "active"
+  },
+  {
+    "email": "user10.9005@example.test",
+    "full_name": "Gavin Batta",
+    "id": 11,
+    "phone": "+916154303911",
+    "role_id": 4,
+    "status": "pending"
+  },
+  {
+    "email": "user11.9727@example.test",
+    "full_name": "Michael Dutta",
+    "id": 12,
+    "phone": "+917278248963",
+    "role_id": 2,
+    "status": "active"
+  },
+  {
+    "email": "user12.7537@example.test",
+    "full_name": "Devansh Rajan",
+    "id": 13,
+    "phone": "+918787133150",
+    "role_id": 2,
+    "status": "active"
+  },
+  {
+    "email": "user13.1117@example.test",
+    "full_name": "Upadhriti Wadhwa",
+    "id": 14,
+    "phone": "+916031051834",
+    "role_id": 4,
+    "status": "active"
+  },
+  {
+    "email": "user14.3167@example.test",
+    "full_name": "Advay Contractor",
+    "id": 15,
+    "phone": "+919376311656",
+    "role_id": 4,
+    "status": "active"
+  },
+  {
+    "email": "user15.1887@example.test",
+    "full_name": "Harini Choudhury",
+    "id": 16,
+    "phone": "+916065133387",
+    "role_id": 2,
+    "status": "active"
+  },
+  {
+    "email": "user16.5563@example.test",
+    "full_name": "Radhika Dugar",
+    "id": 17,
+    "phone": "+919317810801",
+    "role_id": 2,
+    "status": "active"
+  },
+  {
+    "email": "user17.8956@example.test",
+    "full_name": "Aarush Lall",
+    "id": 18,
+    "phone": "+919360260647",
+    "role_id": 3,
+    "status": "active"
+  },
+  {
+    "email": "user18.8973@example.test",
+    "full_name": "Yashica Cherian",
+    "id": 19,
+    "phone": "+917343098050",
+    "role_id": 1,
+    "status": "active"
+  },
+  {
+    "email": "user19.9238@example.test",
+    "full_name": "Yashica Issac",
+    "id": 20,
+    "phone": "+917081219136",
+    "role_id": 1,
+    "status": "inactive"
+  },
+  {
+    "email": "user20.5033@example.test",
+    "full_name": "Kashvi Edwin",
+    "id": 21,
+    "phone": "+916916998543",
+    "role_id": 3,
+    "status": "active"
+  }
+]

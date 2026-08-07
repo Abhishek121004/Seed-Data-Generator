@@ -1,0 +1,2 @@
+[console_scripts]
+seed-data-generator = seed_data_generator.cli:app

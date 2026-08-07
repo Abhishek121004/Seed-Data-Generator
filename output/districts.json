@@ -1,0 +1,62 @@
+[
+  {
+    "id": 1,
+    "name": "Nagpur District",
+    "state_id": 1
+  },
+  {
+    "id": 2,
+    "name": "Sambalpur District",
+    "state_id": 1
+  },
+  {
+    "id": 3,
+    "name": "Kolhapur District",
+    "state_id": 2
+  },
+  {
+    "id": 4,
+    "name": "Bongaigaon District",
+    "state_id": 2
+  },
+  {
+    "id": 5,
+    "name": "Gudivada District",
+    "state_id": 3
+  },
+  {
+    "id": 6,
+    "name": "Patna District",
+    "state_id": 3
+  },
+  {
+    "id": 7,
+    "name": "Tiruchirappalli District",
+    "state_id": 4
+  },
+  {
+    "id": 8,
+    "name": "Muzaffarpur District",
+    "state_id": 4
+  },
+  {
+    "id": 9,
+    "name": "Kishanganj District",
+    "state_id": 5
+  },
+  {
+    "id": 10,
+    "name": "Bongaigaon District",
+    "state_id": 5
+  },
+  {
+    "id": 11,
+    "name": "Muzaffarnagar District",
+    "state_id": 6
+  },
+  {
+    "id": 12,
+    "name": "Giridih District",
+    "state_id": 6
+  }
+]

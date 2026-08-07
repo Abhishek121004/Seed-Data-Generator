@@ -1,0 +1,146 @@
+[
+  {
+    "district_id": 1,
+    "id": 1,
+    "name": "Chennai",
+    "pincode": "770487"
+  },
+  {
+    "district_id": 1,
+    "id": 2,
+    "name": "Bhusawal",
+    "pincode": "216739"
+  },
+  {
+    "district_id": 2,
+    "id": 3,
+    "name": "Alwar",
+    "pincode": "126225"
+  },
+  {
+    "district_id": 2,
+    "id": 4,
+    "name": "Thrissur",
+    "pincode": "877572"
+  },
+  {
+    "district_id": 3,
+    "id": 5,
+    "name": "Kota",
+    "pincode": "388389"
+  },
+  {
+    "district_id": 3,
+    "id": 6,
+    "name": "Nadiad",
+    "pincode": "356787"
+  },
+  {
+    "district_id": 4,
+    "id": 7,
+    "name": "Secunderabad",
+    "pincode": "334053"
+  },
+  {
+    "district_id": 4,
+    "id": 8,
+    "name": "Mahbubnagar",
+    "pincode": "246316"
+  },
+  {
+    "district_id": 5,
+    "id": 9,
+    "name": "Varanasi",
+    "pincode": "872246"
+  },
+  {
+    "district_id": 5,
+    "id": 10,
+    "name": "Jorhat",
+    "pincode": "207473"
+  },
+  {
+    "district_id": 6,
+    "id": 11,
+    "name": "Burhanpur",
+    "pincode": "809570"
+  },
+  {
+    "district_id": 6,
+    "id": 12,
+    "name": "Suryapet",
+    "pincode": "876646"
+  },
+  {
+    "district_id": 7,
+    "id": 13,
+    "name": "Tadipatri",
+    "pincode": "671858"
+  },
+  {
+    "district_id": 7,
+    "id": 14,
+    "name": "Gangtok",
+    "pincode": "191161"
+  },
+  {
+    "district_id": 8,
+    "id": 15,
+    "name": "Coimbatore",
+    "pincode": "719176"
+  },
+  {
+    "district_id": 8,
+    "id": 16,
+    "name": "Ambattur",
+    "pincode": "542417"
+  },
+  {
+    "district_id": 9,
+    "id": 17,
+    "name": "Vijayawada",
+    "pincode": "133326"
+  },
+  {
+    "district_id": 9,
+    "id": 18,
+    "name": "Salem",
+    "pincode": "131244"
+  },
+  {
+    "district_id": 10,
+    "id": 19,
+    "name": "Alwar",
+    "pincode": "198246"
+  },
+  {
+    "district_id": 10,
+    "id": 20,
+    "name": "Bharatpur",
+    "pincode": "329258"
+  },
+  {
+    "district_id": 11,
+    "id": 21,
+    "name": "Uluberia",
+    "pincode": "343962"
+  },
+  {
+    "district_id": 11,
+    "id": 22,
+    "name": "Bhagalpur",
+    "pincode": "629903"
+  },
+  {
+    "district_id": 12,
+    "id": 23,
+    "name": "Madurai",
+    "pincode": "731262"
+  },
+  {
+    "district_id": 12,
+    "id": 24,
+    "name": "Deoghar",
+    "pincode": "127824"
+  }
+]

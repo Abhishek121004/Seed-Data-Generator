@@ -1,0 +1,121 @@
+[
+  {
+    "full_name": "Anirudh Choudhury",
+    "id": 1,
+    "is_active": true,
+    "phone": "+918118244935",
+    "vendor_company_id": 1
+  },
+  {
+    "full_name": "Damyanti Khatri",
+    "id": 2,
+    "is_active": true,
+    "phone": "+918874016400",
+    "vendor_company_id": 1
+  },
+  {
+    "full_name": "Frederick Sunder",
+    "id": 3,
+    "is_active": true,
+    "phone": "+919025634216",
+    "vendor_company_id": 2
+  },
+  {
+    "full_name": "Jeremiah Dave",
+    "id": 4,
+    "is_active": true,
+    "phone": "+919337543303",
+    "vendor_company_id": 2
+  },
+  {
+    "full_name": "Siddharth Zacharia",
+    "id": 5,
+    "is_active": true,
+    "phone": "+917561595148",
+    "vendor_company_id": 3
+  },
+  {
+    "full_name": "Devika Rastogi",
+    "id": 6,
+    "is_active": true,
+    "phone": "+919564823662",
+    "vendor_company_id": 3
+  },
+  {
+    "full_name": "Raksha Varughese",
+    "id": 7,
+    "is_active": true,
+    "phone": "+918680443699",
+    "vendor_company_id": 3
+  },
+  {
+    "full_name": "Jai Kota",
+    "id": 8,
+    "is_active": true,
+    "phone": "+919773872148",
+    "vendor_company_id": 3
+  },
+  {
+    "full_name": "Victor Kannan",
+    "id": 9,
+    "is_active": true,
+    "phone": "+919278895798",
+    "vendor_company_id": 4
+  },
+  {
+    "full_name": "Ekavir Bhargava",
+    "id": 10,
+    "is_active": true,
+    "phone": "+919277434873",
+    "vendor_company_id": 4
+  },
+  {
+    "full_name": "Ekavir Varkey",
+    "id": 11,
+    "is_active": true,
+    "phone": "+919688937346",
+    "vendor_company_id": 5
+  },
+  {
+    "full_name": "Arya Sunder",
+    "id": 12,
+    "is_active": true,
+    "phone": "+919562729806",
+    "vendor_company_id": 5
+  },
+  {
+    "full_name": "Kevin Solanki",
+    "id": 13,
+    "is_active": true,
+    "phone": "+916162720465",
+    "vendor_company_id": 5
+  },
+  {
+    "full_name": "Girindra Chatterjee",
+    "id": 14,
+    "is_active": true,
+    "phone": "+916241904966",
+    "vendor_company_id": 6
+  },
+  {
+    "full_name": "Irya Sampath",
+    "id": 15,
+    "is_active": true,
+    "phone": "+917193149190",
+    "vendor_company_id": 6
+  },
+  {
+    "full_name": "Unni Bhagat",
+    "id": 16,
+    "is_active": true,
+    "phone": "+919518506716",
+    "vendor_company_id": 6
+  },
+  {
+    "full_name": "Darsh Rau",
+    "id": 17,
+    "is_active": true,
+    "phone": "+919262849877",
+    "vendor_company_id": 6
+  }
+]

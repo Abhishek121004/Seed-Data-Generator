@@ -1,0 +1,27 @@
+[
+  {
+    "category": "deployment",
+    "id": 1,
+    "name": "Installation"
+  },
+  {
+    "category": "reactive",
+    "id": 2,
+    "name": "Repair"
+  },
+  {
+    "category": "maintenance",
+    "id": 3,
+    "name": "Preventive Maintenance"
+  },
+  {
+    "category": "audit",
+    "id": 4,
+    "name": "Inspection"
+  },
+  {
+    "category": "urgent",
+    "id": 5,
+    "name": "Emergency Callout"
+  }
+]

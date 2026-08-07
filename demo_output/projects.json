@@ -1,0 +1,20 @@
+[
+  {
+    "id": 1,
+    "is_completed": true,
+    "name": "Target Clicks-And-Mortar Portals Project 1",
+    "owner_id": 6
+  },
+  {
+    "id": 2,
+    "is_completed": false,
+    "name": "Streamline Web-Enabled Networks Project 2",
+    "owner_id": 7
+  },
+  {
+    "id": 3,
+    "is_completed": false,
+    "name": "Grow Customized Initiatives Project 3",
+    "owner_id": 3
+  }
+]

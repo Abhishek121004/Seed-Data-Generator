@@ -1,0 +1,25 @@
+[build-system]
+requires = ["setuptools>=68", "wheel"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "seed-data-generator"
+version = "0.1.0"
+description = "Synthetic field-service seed data generator"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+  "Faker>=40.0.0",
+  "typer>=0.12.0",
+  "rich>=13.0.0",
+]
+
+[project.scripts]
+seed-data-generator = "seed_data_generator.cli:app"
+
+[tool.setuptools]
+package-dir = {"" = "src"}
+
+[tool.setuptools.packages.find]
+where = ["src"]
+

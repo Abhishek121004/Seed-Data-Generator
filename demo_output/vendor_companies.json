@@ -1,0 +1,32 @@
+[
+  {
+    "city_id": 3,
+    "email": "vendor0.9317@example.test",
+    "gst": "16XPCYR2278F2Z1",
+    "id": 1,
+    "name": "Konda, Gade and Shere Services",
+    "pan": "ATKPA1543B",
+    "phone": "+916489325288",
+    "status": "approved"
+  },
+  {
+    "city_id": 6,
+    "email": "vendor1.7939@example.test",
+    "gst": "29BURAC3267P9Z1",
+    "id": 2,
+    "name": "Murty, Kala and Tata Services",
+    "pan": "GROEN2473C",
+    "phone": "+919701065133",
+    "status": "approved"
+  },
+  {
+    "city_id": 4,
+    "email": "vendor2.7615@example.test",
+    "gst": "20YCAOT9118G8Z5",
+    "id": 3,
+    "name": "Kanda-Devi Services",
+    "pan": "SQKIG5346E",
+    "phone": "+916939909169",
+    "status": "approved"
+  }
+]
